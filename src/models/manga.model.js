@@ -1,6 +1,8 @@
 import { DataTypes, Model } from "sequelize";
 
+// Modèle Manga : Titre global des séries
 export class Manga extends Model {}
+
 export function initMangaModel(sequelize) {
   Manga.init(
     {

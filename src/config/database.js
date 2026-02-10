@@ -13,6 +13,6 @@ const sequelize = new Sequelize(DB_NAME, DB_USER, DB_PASS, {
 
 export async function connect() {
   await sequelize.authenticate();
-  initModels(sequelize);
-  await sequelize.sync();
+  initModels(sequelize); // Méthode de l'ORM pour créer et migrer les modèles
+  await sequelize.sync({ force: true }); // force: true pour que sequelize fasse les modification dans la BDD (env dev)
 }
