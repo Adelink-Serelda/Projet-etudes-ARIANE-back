@@ -1,6 +1,7 @@
 import express from "express";
 import { connect } from "./config/database.js";
 import mangaRoutes from "./routes/manga.routes.js";
+import tomeRoutes from "./routes/tome.routes.js";
 import { runSeed } from "./fixtures/seed.js";
 import "dotenv/config";
 
@@ -18,6 +19,7 @@ export async function initApp() {
 
   // Middleware de routage
   app.use("/api/mangas", mangaRoutes);
+  app.use("/api/tomes", tomeRoutes);
 
   // Route racine
   app.get("/", (req, res) => {
