@@ -4,9 +4,17 @@ import mangaRoutes from "./routes/manga.routes.js";
 import tomeRoutes from "./routes/tome.routes.js";
 import { runSeed } from "./fixtures/seed.js";
 import "dotenv/config";
+import cors from "cors";
 
 export async function initApp() {
   const app = express();
+
+  app.use(
+    cors({
+      origin: "http://localhost:3000",
+      methods: ["GET", "POST"],
+    }),
+  );
 
   // Middleware Json qui permet de lire le format json des requètes HTTP
   app.use(express.json());

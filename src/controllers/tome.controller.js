@@ -2,7 +2,23 @@ import chalk from "chalk";
 import { Tome, Manga } from "../models/index.js";
 
 export async function findAllTomes(req, res) {
-  const tomes = await Tome.findAll({ order: [["dateSortie", "DESC"]] });
+  const tomes = await Tome.findAll({
+    order: [["dateSortie", "DESC"]],
+    include: [
+      {
+        model: Manga,
+        attributes: [
+          "id",
+          "titre",
+          "auteur",
+          "edition",
+          "genre",
+          "nbTomes",
+          "termine",
+        ],
+      },
+    ],
+  });
   return res.send(tomes);
 }
 
