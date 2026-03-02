@@ -1,0 +1,3608 @@
+[
+  {
+    "id": "spy-x-family",
+    "titre": "Spy x Family",
+    "auteur": "Tatsuya Endo",
+    "edition": "Kurokawa",
+    "genre": "shonen",
+    "nbTomes": 13,
+    "termine": false,
+    "description": "Pour préserver la paix entre Ostania et Westalis, l'espion légendaire Twilight doit créer une famille de toutes pièces. Il adopte Anya, une petite fille télépathe, et épouse Yor, une tueuse à gages. Aucun ne connaît les secrets des autres, mais ensemble ils doivent paraître une famille parfaite.",
+    "tomes": [
+      {
+        "id": "spy-x-family-t1",
+        "numero": 1,
+        "titre": "Mission 1",
+        "image": "https://m.media-amazon.com/images/I/81v7Zx0lYFL.jpg",
+        "date": "2020-04-09",
+        "synopsis": "Twilight adopte Anya pour infiltrer l'école Eden. Il ignore qu'elle peut lire dans les pensées."
+      },
+      {
+        "id": "spy-x-family-t2",
+        "numero": 2,
+        "titre": "Mission 2",
+        "image": "https://m.media-amazon.com/images/I/81x0pQp8JmL.jpg",
+        "date": "2020-07-09",
+        "synopsis": "La famille Forger tente de réussir l'entretien d'entrée à Eden. Yor rejoint la famille."
+      },
+      {
+        "id": "spy-x-family-t3",
+        "numero": 3,
+        "titre": "Mission 3",
+        "image": "https://m.media-amazon.com/images/I/81Vqg6rQ5oL.jpg",
+        "date": "2020-10-08",
+        "synopsis": "Anya entre à Eden et tente de se rapprocher de Damian Desmond, sans succès."
+      },
+      {
+        "id": "spy-x-family-t4",
+        "numero": 4,
+        "titre": "Mission 4",
+        "image": "https://m.media-amazon.com/images/I/81p0FJt7uUL.jpg",
+        "date": "2021-01-14",
+        "synopsis": "Lloyd doit gérer les attentes de l'école tandis qu'Anya découvre les clubs."
+      },
+      {
+        "id": "spy-x-family-t5",
+        "numero": 5,
+        "titre": "Mission 5",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2021-04-15",
+        "synopsis": "Yor affronte de nouveaux défis dans sa double vie, tandis qu'Anya tente d'obtenir des Stella."
+      },
+      {
+        "id": "spy-x-family-t6",
+        "numero": 6,
+        "titre": "Mission 6",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2021-07-08",
+        "synopsis": "La famille Forger part en mission aquatique où Anya se retrouve au cœur d'un complot."
+      },
+      {
+        "id": "spy-x-family-t7",
+        "numero": 7,
+        "titre": "Mission 7",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2021-10-14",
+        "synopsis": "Bond, le chien prescient, rejoint la famille et aide à déjouer une attaque terroriste."
+      },
+      {
+        "id": "spy-x-family-t8",
+        "numero": 8,
+        "titre": "Mission 8",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2022-01-13",
+        "synopsis": "Twilight doit gérer une mission délicate impliquant un diplomate étranger."
+      },
+      {
+        "id": "spy-x-family-t9",
+        "numero": 9,
+        "titre": "Mission 9",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2022-04-14",
+        "synopsis": "Anya participe à un tournoi sportif à Eden, avec des enjeux inattendus."
+      },
+      {
+        "id": "spy-x-family-t10",
+        "numero": 10,
+        "titre": "Mission 10",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "2022-07-07",
+        "synopsis": "Yor se retrouve impliquée dans une mission dangereuse en haute mer."
+      },
+      {
+        "id": "spy-x-family-t11",
+        "numero": 11,
+        "titre": "Mission 11",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "2022-10-13",
+        "synopsis": "Twilight doit protéger un scientifique tout en maintenant sa couverture familiale."
+      },
+      {
+        "id": "spy-x-family-t12",
+        "numero": 12,
+        "titre": "Mission 12",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "2023-01-12",
+        "synopsis": "Anya tente d'obtenir une nouvelle Stella, mais les choses tournent mal."
+      },
+      {
+        "id": "spy-x-family-t13",
+        "numero": 13,
+        "titre": "Mission 13",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2023-04-13",
+        "synopsis": "La famille Forger se retrouve au cœur d'une intrigue politique majeure."
+      }
+    ]
+  },
+  {
+    "id": "one-piece",
+    "titre": "One Piece",
+    "auteur": "Eiichiro Oda",
+    "edition": "Glénat",
+    "genre": "shonen",
+    "nbTomes": 105,
+    "termine": false,
+    "description": "Monkey D. Luffy rêve de devenir le Roi des Pirates. Après avoir mangé un fruit du démon qui lui confère un corps élastique, il part à l'aventure pour trouver le légendaire trésor One Piece et se constituer un équipage hors du commun.",
+    "tomes": [
+      {
+        "id": "one-piece-t1",
+        "numero": 1,
+        "titre": "Romance Dawn",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "1997-12-24",
+        "synopsis": "Luffy débute son aventure et rencontre Zoro, qu'il recrute comme premier membre de son équipage."
+      },
+      {
+        "id": "one-piece-t2",
+        "numero": 2,
+        "titre": "Vers Grand Line",
+        "image": "https://m.media-amazon.com/images/I/81z7x0lYF-L.jpg",
+        "date": "1998-04-03",
+        "synopsis": "Luffy et Zoro rencontrent Nami, une voleuse experte en navigation, et affrontent Baggy le Clown."
+      },
+      {
+        "id": "one-piece-t3",
+        "numero": 3,
+        "titre": "Le Pirate",
+        "image": "https://m.media-amazon.com/images/I/81p0Qp8mL-L.jpg",
+        "date": "1998-06-04",
+        "synopsis": "Luffy affronte Kuro et son équipage pour sauver le village de Kaya, tandis qu'Usopp rejoint l'équipage."
+      },
+      {
+        "id": "one-piece-t4",
+        "numero": 4,
+        "titre": "Le Capitaine",
+        "image": "https://m.media-amazon.com/images/I/81Vqg6rQ5oL.jpg",
+        "date": "1998-08-04",
+        "synopsis": "Luffy et son équipage affrontent Don Krieg dans le Baratie, un restaurant flottant dirigé par Zeff."
+      },
+      {
+        "id": "one-piece-t5",
+        "numero": 5,
+        "titre": "Pour qui sonne le glas",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "1998-10-02",
+        "synopsis": "Sanji rejoint l'équipage après un combat acharné contre Don Krieg et ses hommes."
+      },
+      {
+        "id": "one-piece-t6",
+        "numero": 6,
+        "titre": "Le Serment",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "1998-12-04",
+        "synopsis": "Luffy et son équipage arrivent à Arlong Park, où Nami révèle son passé tragique."
+      },
+      {
+        "id": "one-piece-t7",
+        "numero": 7,
+        "titre": "Le Sabreur",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "1999-02-04",
+        "synopsis": "Zoro affronte Hatchan tandis que Luffy se prépare à combattre Arlong."
+      },
+      {
+        "id": "one-piece-t8",
+        "numero": 8,
+        "titre": "Je ne mourrai pas",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "1999-04-02",
+        "synopsis": "Luffy affronte Arlong dans un combat décisif pour libérer Nami et son village."
+      },
+      {
+        "id": "one-piece-t9",
+        "numero": 9,
+        "titre": "La Promesse",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "1999-06-04",
+        "synopsis": "Après la victoire contre Arlong, Nami rejoint officiellement l'équipage."
+      },
+      {
+        "id": "one-piece-t10",
+        "numero": 10,
+        "titre": "OK, Let's Stand Up!",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "1999-08-04",
+        "synopsis": "L'équipage arrive à Loguetown, la ville où Gol D. Roger a été exécuté."
+      },
+      {
+        "id": "one-piece-t11",
+        "numero": 11,
+        "titre": "Le Départ",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "1999-10-04",
+        "synopsis": "Luffy affronte Smoker à Loguetown tandis que l’équipage se prépare à entrer dans Grand Line."
+      },
+      {
+        "id": "one-piece-t12",
+        "numero": 12,
+        "titre": "La Baleine",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "1999-12-02",
+        "synopsis": "L’équipage rencontre Laboon, une baleine géante, et découvre les dangers de Grand Line."
+      },
+      {
+        "id": "one-piece-t13",
+        "numero": 13,
+        "titre": "La Promesse",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2000-02-04",
+        "synopsis": "Luffy et son équipage affrontent Mr. 9 et Miss Wednesday, membres de Baroque Works."
+      },
+      {
+        "id": "one-piece-t14",
+        "numero": 14,
+        "titre": "Instinct",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "2000-04-04",
+        "synopsis": "Luffy découvre l’identité de Vivi et s’engage à l’aider à sauver le royaume d’Alabasta."
+      },
+      {
+        "id": "one-piece-t15",
+        "numero": 15,
+        "titre": "Droit Devant",
+        "image": "https://m.media-amazon.com/images/I/81z7x0lYF-L.jpg",
+        "date": "2000-06-02",
+        "synopsis": "L’équipage traverse Little Garden et affronte les géants Dorry et Brogy."
+      },
+      {
+        "id": "one-piece-t16",
+        "numero": 16,
+        "titre": "La Reine des Neiges",
+        "image": "https://m.media-amazon.com/images/I/81p0Qp8mL-L.jpg",
+        "date": "2000-08-04",
+        "synopsis": "Luffy et ses amis arrivent à Drum Island et rencontrent Chopper, un renne médecin."
+      },
+      {
+        "id": "one-piece-t17",
+        "numero": 17,
+        "titre": "Hiruluk",
+        "image": "https://m.media-amazon.com/images/I/81Vqg6rQ5oL.jpg",
+        "date": "2000-10-04",
+        "synopsis": "Le passé de Chopper est révélé, marqué par la figure du docteur Hiruluk."
+      },
+      {
+        "id": "one-piece-t18",
+        "numero": 18,
+        "titre": "Ace",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2000-12-04",
+        "synopsis": "Luffy retrouve Ace, son frère, et découvre l’ampleur de Baroque Works."
+      },
+      {
+        "id": "one-piece-t19",
+        "numero": 19,
+        "titre": "Rebelle",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2001-02-02",
+        "synopsis": "L’équipage arrive enfin à Alabasta, où la guerre civile menace d’éclater."
+      },
+      {
+        "id": "one-piece-t20",
+        "numero": 20,
+        "titre": "La Bataille d’Alabasta",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2001-04-04",
+        "synopsis": "Luffy affronte Crocodile dans un combat décisif pour sauver le royaume."
+      },
+      {
+        "id": "one-piece-t21",
+        "numero": 21,
+        "titre": "Utopia",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2001-06-04",
+        "synopsis": "La bataille d’Alabasta atteint son apogée tandis que Luffy poursuit Crocodile pour un ultime affrontement."
+      },
+      {
+        "id": "one-piece-t22",
+        "numero": 22,
+        "titre": "Hope!!",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2001-08-03",
+        "synopsis": "Luffy livre un combat décisif contre Crocodile pour sauver Vivi et empêcher la destruction du royaume."
+      },
+      {
+        "id": "one-piece-t23",
+        "numero": 23,
+        "titre": "Vivi’s Adventure",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "2001-10-04",
+        "synopsis": "La guerre civile prend fin. Vivi doit choisir entre rester princesse ou rejoindre l’équipage."
+      },
+      {
+        "id": "one-piece-t24",
+        "numero": 24,
+        "titre": "Les Rêves",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "2001-12-04",
+        "synopsis": "L’équipage arrive sur Jaya et rencontre Bellamy, un pirate arrogant qui se moque de leurs rêves."
+      },
+      {
+        "id": "one-piece-t25",
+        "numero": 25,
+        "titre": "L’Homme au Masque",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "2002-02-04",
+        "synopsis": "Luffy rencontre Barbe Noire, un pirate mystérieux qui croit fermement aux rêves."
+      },
+      {
+        "id": "one-piece-t26",
+        "numero": 26,
+        "titre": "Le Dieu du Ciel",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2002-04-04",
+        "synopsis": "L’équipage atteint Skypiea, une île céleste, et découvre l’existence d’Enel, un tyran autoproclamé dieu."
+      },
+      {
+        "id": "one-piece-t27",
+        "numero": 27,
+        "titre": "Oratorio",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "2002-06-04",
+        "synopsis": "La guerre éclate entre les habitants de Skypiea et les Shandias, tandis qu’Enel prépare son plan destructeur."
+      },
+      {
+        "id": "one-piece-t28",
+        "numero": 28,
+        "titre": "Wiper",
+        "image": "https://m.media-amazon.com/images/I/81z7x0lYF-L.jpg",
+        "date": "2002-08-02",
+        "synopsis": "Wiper, guerrier Shandia, affronte Enel tandis que Luffy tente de stopper la destruction de Skypiea."
+      },
+      {
+        "id": "one-piece-t29",
+        "numero": 29,
+        "titre": "Orage",
+        "image": "https://m.media-amazon.com/images/I/81p0Qp8mL-L.jpg",
+        "date": "2002-10-04",
+        "synopsis": "Luffy affronte Enel dans un combat spectaculaire opposant le caoutchouc à la foudre."
+      },
+      {
+        "id": "one-piece-t30",
+        "numero": 30,
+        "titre": "Capriccio",
+        "image": "https://m.media-amazon.com/images/I/81Vqg6rQ5oL.jpg",
+        "date": "2002-12-04",
+        "synopsis": "La cloche d’or de Shandora résonne enfin, révélant la vérité sur l’île céleste et ses légendes."
+      },
+      {
+        "id": "one-piece-t31",
+        "numero": 31,
+        "titre": "Le Départ pour la Mer Bleue",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2003-02-04",
+        "synopsis": "Après la chute d’Enel, l’équipage quitte Skypiea avec un trésor inattendu et reprend la route vers la mer bleue."
+      },
+      {
+        "id": "one-piece-t32",
+        "numero": 32,
+        "titre": "Love Song",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2003-04-04",
+        "synopsis": "Luffy et son équipage arrivent à Long Ring Long Land et affrontent Foxy dans le Davy Back Fight."
+      },
+      {
+        "id": "one-piece-t33",
+        "numero": 33,
+        "titre": "Davy Back Fight",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2003-06-04",
+        "synopsis": "Les jeux du Davy Back Fight se poursuivent, mettant à l’épreuve la cohésion de l’équipage."
+      },
+      {
+        "id": "one-piece-t34",
+        "numero": 34,
+        "titre": "Water Seven",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2003-08-04",
+        "synopsis": "L’équipage arrive à Water Seven pour réparer le Vogue Merry et découvre une ville de charpentiers hors pair."
+      },
+      {
+        "id": "one-piece-t35",
+        "numero": 35,
+        "titre": "Capitaine",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2003-10-03",
+        "synopsis": "Usopp se dispute avec Luffy au sujet du Vogue Merry, provoquant une rupture douloureuse dans l’équipage."
+      },
+      {
+        "id": "one-piece-t36",
+        "numero": 36,
+        "titre": "La Ville de l’Eau",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "2003-12-04",
+        "synopsis": "Robin disparaît mystérieusement tandis que le CP9 révèle son existence et ses intentions."
+      },
+      {
+        "id": "one-piece-t37",
+        "numero": 37,
+        "titre": "Tom",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "2004-02-04",
+        "synopsis": "Le passé de Franky et Iceburg est dévoilé, ainsi que le rôle crucial de Tom dans la construction du train des mers."
+      },
+      {
+        "id": "one-piece-t38",
+        "numero": 38,
+        "titre": "Rocketman",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "2004-04-02",
+        "synopsis": "Luffy et ses alliés embarquent à bord du Rocketman pour poursuivre le CP9 et sauver Robin."
+      },
+      {
+        "id": "one-piece-t39",
+        "numero": 39,
+        "titre": "La Déclaration de Guerre",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2004-06-04",
+        "synopsis": "Luffy déclare la guerre au Gouvernement Mondial en brûlant son drapeau pour sauver Robin."
+      },
+      {
+        "id": "one-piece-t40",
+        "numero": 40,
+        "titre": "Gear",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "2004-08-04",
+        "synopsis": "Luffy dévoile sa nouvelle technique, le Gear Second, dans son combat contre Blueno du CP9."
+      },
+      {
+        "id": "one-piece-t41",
+        "numero": 41,
+        "titre": "Déclaration",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2004-10-04",
+        "synopsis": "Luffy et ses alliés affrontent les membres du CP9 pour libérer Robin, tandis que les tensions montent à Enies Lobby."
+      },
+      {
+        "id": "one-piece-t42",
+        "numero": 42,
+        "titre": "Pardon",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2004-12-03",
+        "synopsis": "Robin révèle son passé tragique à Ohara et son lien avec le Gouvernement Mondial."
+      },
+      {
+        "id": "one-piece-t43",
+        "numero": 43,
+        "titre": "Luffy vs. Lucci",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2005-02-04",
+        "synopsis": "Luffy affronte Rob Lucci dans l’un des combats les plus intenses de la série."
+      },
+      {
+        "id": "one-piece-t44",
+        "numero": 44,
+        "titre": "Le Contre-Amiral",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2005-04-04",
+        "synopsis": "L’équipage tente d’échapper au Buster Call tandis que Luffy dépasse ses limites."
+      },
+      {
+        "id": "one-piece-t45",
+        "numero": 45,
+        "titre": "L’Aube d’une Nouvelle Aventure",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2005-06-03",
+        "synopsis": "Après la bataille d’Enies Lobby, Franky rejoint officiellement l’équipage et le Thousand Sunny est construit."
+      },
+      {
+        "id": "one-piece-t46",
+        "numero": 46,
+        "titre": "Aventure sur Thriller Bark",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "2005-08-04",
+        "synopsis": "L’équipage arrive sur Thriller Bark, une île navire dirigée par le mystérieux Gecko Moria."
+      },
+      {
+        "id": "one-piece-t47",
+        "numero": 47,
+        "titre": "Nightmare Luffy",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "2005-10-04",
+        "synopsis": "Luffy absorbe les ombres de centaines de pirates pour affronter Oars et Moria."
+      },
+      {
+        "id": "one-piece-t48",
+        "numero": 48,
+        "titre": "La Promesse de Brook",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "2005-12-02",
+        "synopsis": "Le passé de Brook est révélé, marqué par son lien avec Laboon et son ancien équipage."
+      },
+      {
+        "id": "one-piece-t49",
+        "numero": 49,
+        "titre": "L’Attaque de Kuma",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2006-02-03",
+        "synopsis": "Bartholomew Kuma intervient sur Thriller Bark, mettant l’équipage en grand danger."
+      },
+      {
+        "id": "one-piece-t50",
+        "numero": 50,
+        "titre": "Sabondy",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "2006-04-04",
+        "synopsis": "L’équipage arrive à l’archipel des Sabaody, où ils rencontrent les Supernovas et les Dragons Célestes."
+      },
+      {
+        "id": "one-piece-t51",
+        "numero": 51,
+        "titre": "11 Supernovas",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2006-06-02",
+        "synopsis": "L’équipage découvre l’existence des Supernovas, onze pirates prometteurs dont les primes dépassent 100 millions."
+      },
+      {
+        "id": "one-piece-t52",
+        "numero": 52,
+        "titre": "Roger et Rayleigh",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2006-08-04",
+        "synopsis": "Luffy rencontre Silvers Rayleigh, ancien second de Gol D. Roger, qui révèle des secrets sur le Roi des Pirates."
+      },
+      {
+        "id": "one-piece-t53",
+        "numero": 53,
+        "titre": "La Séparation",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2006-10-04",
+        "synopsis": "Bartholomew Kuma intervient et disperse l’équipage aux quatre coins du monde."
+      },
+      {
+        "id": "one-piece-t54",
+        "numero": 54,
+        "titre": "L’Enfer",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2006-12-04",
+        "synopsis": "Luffy arrive à Impel Down, la prison sous-marine, pour sauver Ace avant son exécution."
+      },
+      {
+        "id": "one-piece-t55",
+        "numero": 55,
+        "titre": "Le Chemin du Désespoir",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2007-02-02",
+        "synopsis": "Luffy traverse les niveaux infernaux d’Impel Down et affronte Magellan, le directeur de la prison."
+      },
+      {
+        "id": "one-piece-t56",
+        "numero": 56,
+        "titre": "L’Évasion",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "2007-04-04",
+        "synopsis": "Luffy s’allie à Crocodile, Jinbe et Ivankov pour s’échapper d’Impel Down et rejoindre Marineford."
+      },
+      {
+        "id": "one-piece-t57",
+        "numero": 57,
+        "titre": "La Guerre au Sommet",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "2007-06-04",
+        "synopsis": "La bataille de Marineford éclate entre Barbe Blanche et la Marine pour sauver Ace."
+      },
+      {
+        "id": "one-piece-t58",
+        "numero": 58,
+        "titre": "Ace",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "2007-08-03",
+        "synopsis": "Ace est exécuté sous les yeux de Luffy, plongeant le monde dans le chaos."
+      },
+      {
+        "id": "one-piece-t59",
+        "numero": 59,
+        "titre": "La Fin d’une Ère",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2007-10-04",
+        "synopsis": "Barbe Blanche meurt en laissant un message qui bouleverse l’équilibre mondial."
+      },
+      {
+        "id": "one-piece-t60",
+        "numero": 60,
+        "titre": "Message",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "2007-12-04",
+        "synopsis": "Luffy envoie un message secret à son équipage : se retrouver dans deux ans après un entraînement intensif."
+      },
+      {
+        "id": "one-piece-t61",
+        "numero": 61,
+        "titre": "Romance Dawn for the New World",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2011-02-04",
+        "synopsis": "Après deux ans d’entraînement, l’équipage se réunit enfin et se prépare à entrer dans le Nouveau Monde."
+      },
+      {
+        "id": "one-piece-t62",
+        "numero": 62,
+        "titre": "L’Île des Hommes-Poissons",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2011-04-04",
+        "synopsis": "Luffy et son équipage arrivent sur l’île des Hommes-Poissons, où de nouveaux dangers les attendent."
+      },
+      {
+        "id": "one-piece-t63",
+        "numero": 63,
+        "titre": "Otohime et Tiger",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2011-06-03",
+        "synopsis": "Le passé de l’île est révélé, marqué par les actions de la reine Otohime et du héros Fisher Tiger."
+      },
+      {
+        "id": "one-piece-t64",
+        "numero": 64,
+        "titre": "100 000 contre 10",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2011-08-04",
+        "synopsis": "Luffy et son équipage affrontent l’armée d’Hody Jones dans un combat spectaculaire."
+      },
+      {
+        "id": "one-piece-t65",
+        "numero": 65,
+        "titre": "Retour à la Surface",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2011-10-04",
+        "synopsis": "Après avoir vaincu Hody, l’équipage quitte l’île des Hommes-Poissons et se dirige vers le Nouveau Monde."
+      },
+      {
+        "id": "one-piece-t66",
+        "numero": 66,
+        "titre": "Aventure sur Punk Hazard",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "2011-12-02",
+        "synopsis": "Luffy découvre Punk Hazard, une île brûlante et glacée, et rencontre Trafalgar Law."
+      },
+      {
+        "id": "one-piece-t67",
+        "numero": 67,
+        "titre": "COOL FIGHT",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "2012-02-03",
+        "synopsis": "Luffy affronte Caesar Clown, un scientifique cruel responsable d’expériences inhumaines."
+      },
+      {
+        "id": "one-piece-t68",
+        "numero": 68,
+        "titre": "Punk Hazard",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "2012-04-04",
+        "synopsis": "L’alliance entre Luffy et Law se renforce tandis qu’ils découvrent les plans de Doflamingo."
+      },
+      {
+        "id": "one-piece-t69",
+        "numero": 69,
+        "titre": "SAD",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2012-06-04",
+        "synopsis": "L’équipage affronte les sbires de Caesar et découvre le rôle du SAD dans le trafic de fruits artificiels."
+      },
+      {
+        "id": "one-piece-t70",
+        "numero": 70,
+        "titre": "Doflamingo",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "2012-08-03",
+        "synopsis": "Doflamingo entre en scène, révélant l’ampleur de son influence dans le Nouveau Monde."
+      },
+      {
+        "id": "one-piece-t71",
+        "numero": 71,
+        "titre": "Dressrosa",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2013-08-02",
+        "synopsis": "Luffy et Law arrivent à Dressrosa pour renverser Doflamingo et détruire l’usine de SMILE."
+      },
+      {
+        "id": "one-piece-t72",
+        "numero": 72,
+        "titre": "Doflamingo",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2013-11-01",
+        "synopsis": "Les secrets de Doflamingo sont révélés, ainsi que son lien avec la noblesse mondiale."
+      },
+      {
+        "id": "one-piece-t73",
+        "numero": 73,
+        "titre": "Colisée Corrida",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2014-03-04",
+        "synopsis": "Luffy participe au tournoi du Colisée Corrida pour récupérer le Mera Mera no Mi, l’ancien fruit d’Ace."
+      },
+      {
+        "id": "one-piece-t74",
+        "numero": 74,
+        "titre": "SOP",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2014-06-04",
+        "synopsis": "L’armée des nains lance l’opération SOP pour libérer leurs compagnons réduits en esclavage par Doflamingo."
+      },
+      {
+        "id": "one-piece-t75",
+        "numero": 75,
+        "titre": "Luffy vs. Doflamingo",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2014-09-04",
+        "synopsis": "La bataille contre Doflamingo commence tandis que Law révèle son passé tragique."
+      },
+      {
+        "id": "one-piece-t76",
+        "numero": 76,
+        "titre": "Opération Dressrosa S",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "2014-12-04",
+        "synopsis": "Luffy et Law affrontent Doflamingo et Trebol dans un combat acharné."
+      },
+      {
+        "id": "one-piece-t77",
+        "numero": 77,
+        "titre": "Smile",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "2015-04-03",
+        "synopsis": "La vérité sur les SMILE et le rôle de Kaido dans leur production est révélée."
+      },
+      {
+        "id": "one-piece-t78",
+        "numero": 78,
+        "titre": "Le Gear Fourth",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "2015-07-03",
+        "synopsis": "Luffy dévoile le Gear Fourth pour affronter Doflamingo dans un combat décisif."
+      },
+      {
+        "id": "one-piece-t79",
+        "numero": 79,
+        "titre": "Lucy !!",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2015-10-02",
+        "synopsis": "La bataille de Dressrosa touche à sa fin tandis que les citoyens se soulèvent contre Doflamingo."
+      },
+      {
+        "id": "one-piece-t80",
+        "numero": 80,
+        "titre": "La Grande Flotte du Chapeau de Paille",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "2016-01-04",
+        "synopsis": "Sept équipages jurent fidélité à Luffy, formant la Grande Flotte du Chapeau de Paille."
+      },
+      {
+        "id": "one-piece-t81",
+        "numero": 81,
+        "titre": "Mink",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2016-04-04",
+        "synopsis": "L’équipage arrive sur Zou et découvre le peuple Mink, ainsi que les ravages causés par Jack des Pirates aux Cent Bêtes."
+      },
+      {
+        "id": "one-piece-t82",
+        "numero": 82,
+        "titre": "Le Monde se Met en Marche",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2016-07-04",
+        "synopsis": "Les Minks révèlent leur alliance secrète avec les Samouraïs et l’importance de Raizo dans la lutte contre Kaido."
+      },
+      {
+        "id": "one-piece-t83",
+        "numero": 83,
+        "titre": "Sanji",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2016-11-04",
+        "synopsis": "Sanji est emmené de force par sa famille, les Vinsmoke, pour un mariage arrangé avec la fille de Big Mom."
+      },
+      {
+        "id": "one-piece-t84",
+        "numero": 84,
+        "titre": "Luffy vs. Sanji",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2017-02-03",
+        "synopsis": "Sanji affronte Luffy pour protéger ses compagnons, mais Luffy refuse d’abandonner son cuisinier."
+      },
+      {
+        "id": "one-piece-t85",
+        "numero": 85,
+        "titre": "Luffy et Big Mom",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2017-05-02",
+        "synopsis": "Luffy et ses alliés infiltrent Whole Cake Island pour sauver Sanji et déjouer les plans de Big Mom."
+      },
+      {
+        "id": "one-piece-t86",
+        "numero": 86,
+        "titre": "L’Assassinat de Big Mom",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "2017-08-04",
+        "synopsis": "L’alliance tente d’assassiner Big Mom lors de la cérémonie de mariage, mais tout tourne au chaos."
+      },
+      {
+        "id": "one-piece-t87",
+        "numero": 87,
+        "titre": "La Fuite",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "2017-11-02",
+        "synopsis": "Luffy et son équipage tentent d’échapper à Big Mom, devenue incontrôlable après la destruction du gâteau."
+      },
+      {
+        "id": "one-piece-t88",
+        "numero": 88,
+        "titre": "Lion",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "2018-03-02",
+        "synopsis": "Luffy affronte Katakuri dans le Monde des Miroirs, un combat d’endurance et de volonté."
+      },
+      {
+        "id": "one-piece-t89",
+        "numero": 89,
+        "titre": "Bad End Musical",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2018-06-04",
+        "synopsis": "Sanji prépare un gâteau capable d’apaiser Big Mom, tandis que Luffy lutte pour survivre face à Katakuri."
+      },
+      {
+        "id": "one-piece-t90",
+        "numero": 90,
+        "titre": "Big Mom",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "2018-09-04",
+        "synopsis": "Luffy triomphe de Katakuri et l’équipage parvient enfin à s’échapper de Whole Cake Island."
+      },
+      {
+        "id": "one-piece-t91",
+        "numero": 91,
+        "titre": "Adventure in the Land of Samurai",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2018-12-04",
+        "synopsis": "Luffy arrive au Pays des Wa et découvre un territoire isolé, oppressé par Kaido et Orochi."
+      },
+      {
+        "id": "one-piece-t92",
+        "numero": 92,
+        "titre": "Le Shogun Orochi",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2019-03-04",
+        "synopsis": "Le shogun Orochi révèle sa cruauté tandis que les samouraïs préparent la rébellion."
+      },
+      {
+        "id": "one-piece-t93",
+        "numero": 93,
+        "titre": "La Reine",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2019-07-04",
+        "synopsis": "Luffy affronte Queen dans la prison d’Udon et rallie les prisonniers à la cause de la rébellion."
+      },
+      {
+        "id": "one-piece-t94",
+        "numero": 94,
+        "titre": "Les Partisans",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2019-10-04",
+        "synopsis": "Les alliés se rassemblent pour l’assaut final sur Onigashima, tandis que Kaido renforce ses défenses."
+      },
+      {
+        "id": "one-piece-t95",
+        "numero": 95,
+        "titre": "Oden Kozuki",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2019-12-04",
+        "synopsis": "Le passé d’Oden est révélé, ainsi que son lien avec Roger et Barbe Blanche."
+      },
+      {
+        "id": "one-piece-t96",
+        "numero": 96,
+        "titre": "Oden’s Adventure",
+        "image": "https://m.media-amazon.com/images/I/81ZtZ0l5oL.jpg",
+        "date": "2020-04-03",
+        "synopsis": "Oden voyage avec Roger jusqu’à Laugh Tale et découvre la vérité sur le siècle oublié."
+      },
+      {
+        "id": "one-piece-t97",
+        "numero": 97,
+        "titre": "Le Siège d’Onigashima",
+        "image": "https://m.media-amazon.com/images/I/81Qp0Qp8mL.jpg",
+        "date": "2020-09-04",
+        "synopsis": "L’alliance des samouraïs, pirates et Minks lance l’assaut sur Onigashima."
+      },
+      {
+        "id": "one-piece-t98",
+        "numero": 98,
+        "titre": "Les As de la Guerre",
+        "image": "https://m.media-amazon.com/images/I/81p7Z0l5oL.jpg",
+        "date": "2021-02-04",
+        "synopsis": "Les combats s’intensifient sur Onigashima tandis que Luffy affronte Kaido en tête-à-tête."
+      },
+      {
+        "id": "one-piece-t99",
+        "numero": 99,
+        "titre": "La Volonté de Kozuki",
+        "image": "https://m.media-amazon.com/images/I/81k0pQp8mL.jpg",
+        "date": "2021-06-04",
+        "synopsis": "Les samouraïs se battent pour honorer l’héritage d’Oden, tandis que les combats atteignent leur paroxysme."
+      },
+      {
+        "id": "one-piece-t100",
+        "numero": 100,
+        "titre": "Haoshoku",
+        "image": "https://m.media-amazon.com/images/I/81l3rZK4lnL.jpg",
+        "date": "2021-09-03",
+        "synopsis": "Luffy maîtrise pleinement son Haki des Rois et se prépare à renverser Kaido une bonne fois pour toutes."
+      },
+      {
+        "id": "one-piece-t101",
+        "numero": 101,
+        "titre": "La Bataille Décisive",
+        "image": "https://m.media-amazon.com/images/I/81u0zj6n8jL.jpg",
+        "date": "2021-12-03",
+        "synopsis": "La bataille d’Onigashima atteint son apogée tandis que les alliés affrontent les commandants de Kaido et Big Mom."
+      },
+      {
+        "id": "one-piece-t102",
+        "numero": 102,
+        "titre": "Les As de la Nouvelle Ère",
+        "image": "https://m.media-amazon.com/images/I/81Q2gkG7VQL.jpg",
+        "date": "2022-04-04",
+        "synopsis": "Les Supernovas unissent leurs forces pour affronter les Empereurs, révélant de nouvelles techniques et alliances."
+      },
+      {
+        "id": "one-piece-t103",
+        "numero": 103,
+        "titre": "Luffy vs. Kaido",
+        "image": "https://m.media-amazon.com/images/I/81l0tZp8uUL.jpg",
+        "date": "2022-08-04",
+        "synopsis": "Luffy affronte Kaido dans un duel titanesque qui décidera du destin du Pays des Wa."
+      },
+      {
+        "id": "one-piece-t104",
+        "numero": 104,
+        "titre": "Gear Fifth",
+        "image": "https://m.media-amazon.com/images/I/81YtZQ0l5oL.jpg",
+        "date": "2022-11-04",
+        "synopsis": "Luffy dévoile le Gear Fifth, une transformation légendaire liée à la véritable nature de son fruit du démon."
+      },
+      {
+        "id": "one-piece-t105",
+        "numero": 105,
+        "titre": "L’Aube",
+        "image": "https://m.media-amazon.com/images/I/81n7p0Qp8mL.jpg",
+        "date": "2023-03-03",
+        "synopsis": "La bataille d’Onigashima prend fin, ouvrant une nouvelle ère pour le monde et pour l’équipage du Chapeau de Paille."
+      }
+    ]
+  },
+
+  {
+    "id": "dragon-ball",
+    "titre": "Dragon Ball",
+    "auteur": "Akira Toriyama",
+    "edition": "Glénat",
+    "genre": "shonen",
+    "nbTomes": 42,
+    "termine": true,
+    "description": "Son Goku, un jeune garçon à la queue de singe, vit isolé dans les montagnes jusqu'au jour où il rencontre Bulma, une jeune fille à la recherche des sept Dragon Balls. Réunies, ces boules de cristal permettent d'invoquer Shenron, le dragon sacré, qui exauce un vœu. De rencontres en combats, Goku va grandir, s'entraîner et participer à des tournois d’arts martiaux tout en affrontant des ennemis de plus en plus puissants.",
+    "tomes": [
+      {
+        "id": "dragon-ball-t1",
+        "numero": 1,
+        "titre": "Sangoku",
+        "image": "https://m.media-amazon.com/images/I/51x2pZqvQwL.jpg",
+        "date": "1993-05-17",
+        "synopsis": "Goku, un garçon à la force surhumaine, rencontre Bulma qui recherche les Dragon Balls. Ensemble, ils commencent leur voyage et affrontent leurs premiers ennemis, dont le bandit Yamcha."
+      },
+      {
+        "id": "dragon-ball-t2",
+        "numero": 2,
+        "titre": "Kamehameha",
+        "image": "https://m.media-amazon.com/images/I/51bqVqgV2lL.jpg",
+        "date": "1993-06-03",
+        "synopsis": "Goku et Bulma poursuivent leur quête des Dragon Balls et rencontrent Tortue Géniale. Goku découvre la technique légendaire du Kamehameha et le duo se rapproche de l’invocation du dragon."
+      },
+      {
+        "id": "dragon-ball-t3",
+        "numero": 3,
+        "titre": "L’initiation",
+        "image": "https://m.media-amazon.com/images/I/51m0gq1pQVL.jpg",
+        "date": "1993-07-01",
+        "synopsis": "Après leurs premières aventures, Goku devient le disciple de Tortue Géniale. Il commence un entraînement intensif aux côtés de Krilin pour se préparer au grand tournoi d’arts martiaux."
+      },
+      {
+        "id": "dragon-ball-t4",
+        "numero": 4,
+        "titre": "Le grand tournoi",
+        "image": "https://m.media-amazon.com/images/I/51xYxg7pQ5L.jpg",
+        "date": "1993-08-01",
+        "synopsis": "Goku et Krilin participent au Tenkaichi Budokai. Ils affrontent de nombreux combattants puissants et Goku se mesure à Jackie Chun, un mystérieux maître qui semble en savoir long sur eux."
+      },
+      {
+        "id": "dragon-ball-t5",
+        "numero": 5,
+        "titre": "L’armée du Ruban Rouge",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1993-09-01",
+        "synopsis": "Après le tournoi, Goku repart à la recherche des Dragon Balls. Il se retrouve confronté à l’armée du Ruban Rouge, une organisation militaire qui veut s’emparer des boules de cristal pour dominer le monde."
+      },
+      {
+        "id": "dragon-ball-t6",
+        "numero": 6,
+        "titre": "Le général Blue",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1993-10-01",
+        "synopsis": "Goku poursuit l’armée du Ruban Rouge jusqu’à leur base sous-marine. Il affronte le redoutable général Blue, un officier aux pouvoirs psychiques, dans une course contre la montre pour récupérer les Dragon Balls."
+      },
+      {
+        "id": "dragon-ball-t7",
+        "numero": 7,
+        "titre": "Le Ruban Rouge contre-attaque",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1993-11-01",
+        "synopsis": "L’armée du Ruban Rouge renforce ses offensives contre Goku. De nouveaux soldats et machines de guerre se dressent sur sa route, tandis que Goku s’infiltre plus profondément dans leurs installations."
+      },
+      {
+        "id": "dragon-ball-t8",
+        "numero": 8,
+        "titre": "Tao Paï Paï",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1993-12-01",
+        "synopsis": "L’armée du Ruban Rouge engage Tao Paï Paï, un assassin légendaire. Goku subit une lourde défaite et doit s’entraîner à nouveau, notamment auprès du maître Karin, pour espérer vaincre ce nouvel ennemi."
+      },
+      {
+        "id": "dragon-ball-t9",
+        "numero": 9,
+        "titre": "Le Tenkaichi Budokai",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-01-15",
+        "synopsis": "Après la chute de l’armée du Ruban Rouge, Goku reprend son entraînement pour participer au nouveau Tenkaichi Budokai. Les anciens rivaux reviennent, et de nouveaux combattants mystérieux entrent en scène."
+      },
+      {
+        "id": "dragon-ball-t10",
+        "numero": 10,
+        "titre": "Le combat décisif",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-02-15",
+        "synopsis": "Le tournoi atteint son apogée avec les combats finaux. Goku affronte des adversaires redoutables dans des duels intenses, et le résultat du tournoi marque un tournant dans sa progression de guerrier."
+      },
+      {
+        "id": "dragon-ball-t11",
+        "numero": 11,
+        "titre": "Le retour de Piccolo",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-03-15",
+        "synopsis": "Le démon Piccolo Daimaô ressuscite et sème la terreur. Goku se lance dans une course contre la montre pour l’arrêter."
+      },
+      {
+        "id": "dragon-ball-t12",
+        "numero": 12,
+        "titre": "Le dernier combat",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-04-15",
+        "synopsis": "Goku affronte Piccolo Daimaô dans un duel décisif. Le destin du monde repose sur ce combat titanesque."
+      },
+      {
+        "id": "dragon-ball-t13",
+        "numero": 13,
+        "titre": "Le fils de Piccolo",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-05-15",
+        "synopsis": "Avant de mourir, Piccolo Daimaô crée un héritier. Goku, grièvement blessé, part s’entraîner auprès de Dieu."
+      },
+      {
+        "id": "dragon-ball-t14",
+        "numero": 14,
+        "titre": "Le nouveau tournoi",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-06-15",
+        "synopsis": "Trois ans passent. Goku revient adulte pour participer au Tenkaichi Budokai, où de nouveaux adversaires l’attendent."
+      },
+      {
+        "id": "dragon-ball-t15",
+        "numero": 15,
+        "titre": "Le combat contre Ma Junior",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-07-15",
+        "synopsis": "Le mystérieux Ma Junior participe au tournoi. Goku découvre qu’il s’agit du fils de Piccolo venu se venger."
+      },
+      {
+        "id": "dragon-ball-t16",
+        "numero": 16,
+        "titre": "La finale",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-08-15",
+        "synopsis": "Goku affronte Ma Junior en finale du tournoi. Les deux guerriers dévoilent toute l’étendue de leur puissance."
+      },
+      {
+        "id": "dragon-ball-t17",
+        "numero": 17,
+        "titre": "Le mariage de Goku",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-09-15",
+        "synopsis": "Après le tournoi, Goku tient sa promesse d’enfance et part épouser Chichi. Mais rien ne se passe comme prévu."
+      },
+      {
+        "id": "dragon-ball-t18",
+        "numero": 18,
+        "titre": "Le début de l’aventure Z",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-10-15",
+        "synopsis": "Cinq ans plus tard, Goku a un fils, Gohan. L’arrivée de Raditz révèle les origines extraterrestres de Goku."
+      },
+      {
+        "id": "dragon-ball-t19",
+        "numero": 19,
+        "titre": "Les Saiyans",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-11-15",
+        "synopsis": "Goku s’entraîne dans l’au-delà tandis que la Terre se prépare à l’arrivée de deux Saiyans surpuissants."
+      },
+      {
+        "id": "dragon-ball-t20",
+        "numero": 20,
+        "titre": "L’arrivée de Vegeta",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1994-12-15",
+        "synopsis": "Vegeta et Nappa débarquent sur Terre. Les combats s’enchaînent et les guerriers Z affrontent une menace sans précédent."
+      },
+      {
+        "id": "dragon-ball-t21",
+        "numero": 21,
+        "titre": "Le combat contre Vegeta",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-01-15",
+        "synopsis": "Goku affronte Vegeta dans un duel d’une intensité inédite. Les deux Saiyans repoussent leurs limites dans un combat titanesque."
+      },
+      {
+        "id": "dragon-ball-t22",
+        "numero": 22,
+        "titre": "La transformation de Gohan",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-02-15",
+        "synopsis": "Alors que la bataille tourne mal, Gohan révèle une puissance insoupçonnée qui bouleverse le cours du combat."
+      },
+      {
+        "id": "dragon-ball-t23",
+        "numero": 23,
+        "titre": "Vers Namek",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-03-15",
+        "synopsis": "Après la dévastation causée par les Saiyans, Bulma, Gohan et Krilin partent pour Namek afin de trouver de nouvelles Dragon Balls."
+      },
+      {
+        "id": "dragon-ball-t24",
+        "numero": 24,
+        "titre": "L’armée de Freezer",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-04-15",
+        "synopsis": "Sur Namek, les héros découvrent que Freezer et ses sbires traquent eux aussi les Dragon Balls. La tension monte rapidement."
+      },
+      {
+        "id": "dragon-ball-t25",
+        "numero": 25,
+        "titre": "Les forces spéciales Ginyu",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-05-15",
+        "synopsis": "Freezer fait appel aux forces spéciales Ginyu, une unité d’élite redoutable. Gohan, Krilin et Vegeta doivent s’allier pour survivre."
+      },
+      {
+        "id": "dragon-ball-t26",
+        "numero": 26,
+        "titre": "Goku arrive sur Namek",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-06-15",
+        "synopsis": "Goku rejoint enfin Namek après un entraînement intensif. Son arrivée change radicalement le rapport de force."
+      },
+      {
+        "id": "dragon-ball-t27",
+        "numero": 27,
+        "titre": "Le capitaine Ginyu",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-07-15",
+        "synopsis": "Le capitaine Ginyu affronte Goku et utilise sa technique la plus dangereuse : l’échange de corps."
+      },
+      {
+        "id": "dragon-ball-t28",
+        "numero": 28,
+        "titre": "Le combat contre Freezer commence",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-08-15",
+        "synopsis": "Freezer entre en scène. Sa puissance écrasante force les héros à repousser leurs limites pour survivre."
+      },
+      {
+        "id": "dragon-ball-t29",
+        "numero": 29,
+        "titre": "Les transformations de Freezer",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-09-15",
+        "synopsis": "Freezer révèle ses formes successives, chacune plus terrifiante que la précédente. L’espoir semble s’amenuiser."
+      },
+      {
+        "id": "dragon-ball-t30",
+        "numero": 30,
+        "titre": "La rage de Goku",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-10-15",
+        "synopsis": "Après un acte impardonnable de Freezer, Goku est submergé par une colère immense qui annonce un tournant majeur."
+      },
+      {
+        "id": "dragon-ball-t31",
+        "numero": 31,
+        "titre": "La naissance du Super Saiyan",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-11-15",
+        "synopsis": "Face à Freezer, Goku atteint une nouvelle forme légendaire née de la rage et du désespoir."
+      },
+      {
+        "id": "dragon-ball-t32",
+        "numero": 32,
+        "titre": "La fin de Freezer",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1995-12-15",
+        "synopsis": "Le duel final entre Goku et Freezer atteint son apogée alors que Namek est sur le point d’exploser."
+      },
+      {
+        "id": "dragon-ball-t33",
+        "numero": 33,
+        "titre": "Le mystérieux guerrier",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-01-15",
+        "synopsis": "Un jeune guerrier venu du futur terrasse Freezer en un instant et révèle des informations troublantes."
+      },
+      {
+        "id": "dragon-ball-t34",
+        "numero": 34,
+        "titre": "Les cyborgs",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-02-15",
+        "synopsis": "Goku et ses amis se préparent à l’arrivée de redoutables cyborgs annoncés par le voyageur du futur."
+      },
+      {
+        "id": "dragon-ball-t35",
+        "numero": 35,
+        "titre": "C-19 et C-20",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-03-15",
+        "synopsis": "Les premiers cyborgs apparaissent et dévoilent leur puissance terrifiante, mettant Goku en grand danger."
+      },
+      {
+        "id": "dragon-ball-t36",
+        "numero": 36,
+        "titre": "C-17 et C-18",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-04-15",
+        "synopsis": "Deux nouveaux cyborgs encore plus puissants sont libérés, bouleversant totalement les plans des héros."
+      },
+      {
+        "id": "dragon-ball-t37",
+        "numero": 37,
+        "titre": "L’apparition de Cell",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-05-15",
+        "synopsis": "Une créature inconnue absorbe des humains pour gagner en puissance. Son identité soulève de nombreuses questions."
+      },
+      {
+        "id": "dragon-ball-t38",
+        "numero": 38,
+        "titre": "La chasse aux cyborgs",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-06-15",
+        "synopsis": "Cell traque C-17 et C-18 pour atteindre sa forme parfaite, tandis que les guerriers Z tentent de l’arrêter."
+      },
+      {
+        "id": "dragon-ball-t39",
+        "numero": 39,
+        "titre": "Cell parfait",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-07-15",
+        "synopsis": "Cell atteint sa forme parfaite et défie les guerriers Z, révélant une puissance écrasante."
+      },
+      {
+        "id": "dragon-ball-t40",
+        "numero": 40,
+        "titre": "Les Cell Games",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-08-15",
+        "synopsis": "Cell annonce un tournoi mondial où il affrontera quiconque osera se mesurer à lui."
+      },
+      {
+        "id": "dragon-ball-t41",
+        "numero": 41,
+        "titre": "Le sacrifice de Goku",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-09-15",
+        "synopsis": "Face à Cell devenu incontrôlable, Goku prend une décision radicale pour sauver la Terre, marquant un tournant majeur dans l’histoire."
+      },
+      {
+        "id": "dragon-ball-t42",
+        "numero": 42,
+        "titre": "L’héritage de Gohan",
+        "image": "https://m.media-amazon.com/images/I/51pV7VYxQnL.jpg",
+        "date": "1996-10-15",
+        "synopsis": "Gohan affronte Cell dans un combat final où il révèle toute sa puissance. La saga s’achève sur un nouvel espoir pour la Terre."
+      }
+    ]
+  },
+  {
+    "id": "my-hero-academia",
+    "titre": "My Hero Academia",
+    "auteur": "Kohei Horikoshi",
+    "edition": "Ki-oon",
+    "genre": "shonen",
+    "nbTomes": 42,
+    "termine": false,
+    "description": "Dans un monde où 80 % de la population possède un Alter, Izuku Midoriya rêve de devenir un héros malgré le fait qu'il soit né sans pouvoir. Sa rencontre avec All Might va changer son destin.",
+    "tomes": [
+      {
+        "id": "my-hero-academia-t1",
+        "numero": 1,
+        "titre": "Izuku Midoriya : Les origines",
+        "image": "https://m.media-amazon.com/images/I/81dKc7YCO-L.jpg",
+        "date": "2014-11-06",
+        "synopsis": "Izuku, né sans Alter, rencontre All Might qui lui transmet son pouvoir One For All."
+      },
+      {
+        "id": "my-hero-academia-t2",
+        "numero": 2,
+        "titre": "Déchaîne-toi, maudit nerd !",
+        "image": "https://m.media-amazon.com/images/I/81p1uVxDS-L.jpg",
+        "date": "2015-01-08",
+        "synopsis": "Les élèves de Yuei affrontent leurs premiers tests de combat, dont un duel explosif entre Deku et Bakugo."
+      },
+      {
+        "id": "my-hero-academia-t3",
+        "numero": 3,
+        "titre": "All Might",
+        "image": "https://m.media-amazon.com/images/I/81p8p8xW0-L.jpg",
+        "date": "2015-03-05",
+        "synopsis": "L’attaque de l’Alliance des super-vilains frappe Yuei, forçant All Might à intervenir."
+      },
+      {
+        "id": "my-hero-academia-t4",
+        "numero": 4,
+        "titre": "Le début de la fin",
+        "image": "https://m.media-amazon.com/images/I/81g1z0s8u-L.jpg",
+        "date": "2015-05-07",
+        "synopsis": "Le combat contre le Nomu met All Might à rude épreuve, révélant les limites de son pouvoir."
+      },
+      {
+        "id": "my-hero-academia-t5",
+        "numero": 5,
+        "titre": "Shoto Todoroki : Les origines",
+        "image": "https://m.media-amazon.com/images/I/81p7xg1pY-L.jpg",
+        "date": "2015-07-02",
+        "synopsis": "Le tournoi sportif de Yuei commence, révélant les capacités impressionnantes de Todoroki."
+      },
+      {
+        "id": "my-hero-academia-t6",
+        "numero": 6,
+        "titre": "Le garçon né sans pouvoir",
+        "image": "https://m.media-amazon.com/images/I/81m1p2Z8u-L.jpg",
+        "date": "2015-09-03",
+        "synopsis": "Deku affronte Todoroki dans un duel intense où ce dernier doit affronter son passé."
+      },
+      {
+        "id": "my-hero-academia-t7",
+        "numero": 7,
+        "titre": "Katsuki Bakugo : Les origines",
+        "image": "https://m.media-amazon.com/images/I/81u0Q0d0u-L.jpg",
+        "date": "2015-11-05",
+        "synopsis": "La finale du tournoi oppose Bakugo à Todoroki, révélant les tensions internes de Bakugo."
+      },
+      {
+        "id": "my-hero-academia-t8",
+        "numero": 8,
+        "titre": "Le stage chez les pros",
+        "image": "https://m.media-amazon.com/images/I/81Y7q9V0u-L.jpg",
+        "date": "2016-01-07",
+        "synopsis": "Les élèves partent en stage chez des héros professionnels, Deku rejoint Gran Torino."
+      },
+      {
+        "id": "my-hero-academia-t9",
+        "numero": 9,
+        "titre": "Tomura Shigaraki : Les origines",
+        "image": "https://m.media-amazon.com/images/I/81p5x3u0u-L.jpg",
+        "date": "2016-03-03",
+        "synopsis": "L’Alliance des super-vilains passe à l’action tandis que Deku progresse avec One For All."
+      },
+      {
+        "id": "my-hero-academia-t10",
+        "numero": 10,
+        "titre": "All For One",
+        "image": "https://m.media-amazon.com/images/I/81V0x0u0u-L.jpg",
+        "date": "2016-05-05",
+        "synopsis": "La confrontation entre les héros et les vilains s’intensifie, annonçant l’arrivée d’All For One."
+      },
+      {
+        "id": "my-hero-academia-t11",
+        "numero": 11,
+        "titre": "Le symbole de la paix",
+        "image": "https://m.media-amazon.com/images/I/81Z0x0u0u-L.jpg",
+        "date": "2016-07-07",
+        "synopsis": "Les héros lancent une opération de sauvetage pour retrouver Bakugo, enlevé par l’Alliance des super-vilains."
+      },
+      {
+        "id": "my-hero-academia-t12",
+        "numero": 12,
+        "titre": "All Might vs All For One",
+        "image": "https://m.media-amazon.com/images/I/81p9x0u0u-L.jpg",
+        "date": "2016-09-01",
+        "synopsis": "Le combat décisif entre All Might et All For One éclate, bouleversant le monde des héros."
+      },
+      {
+        "id": "my-hero-academia-t13",
+        "numero": 13,
+        "titre": "La fin du commencement, le début de la fin",
+        "image": "https://m.media-amazon.com/images/I/81n0x0u0u-L.jpg",
+        "date": "2016-11-04",
+        "synopsis": "Après la chute d’All Might, la société doit s’adapter à un monde sans son symbole de paix."
+      },
+      {
+        "id": "my-hero-academia-t14",
+        "numero": 14,
+        "titre": "Overhaul",
+        "image": "https://m.media-amazon.com/images/I/81k0x0u0u-L.jpg",
+        "date": "2017-02-02",
+        "synopsis": "La classe 1-A commence un nouveau stage tandis qu’un dangereux criminel, Overhaul, apparaît."
+      },
+      {
+        "id": "my-hero-academia-t15",
+        "numero": 15,
+        "titre": "Lettre d’adieu",
+        "image": "https://m.media-amazon.com/images/I/81m0x0u0u-L.jpg",
+        "date": "2017-04-06",
+        "synopsis": "Les héros découvrent l’existence d’Eri, une fillette au cœur du plan d’Overhaul."
+      },
+      {
+        "id": "my-hero-academia-t16",
+        "numero": 16,
+        "titre": "Red Riot",
+        "image": "https://m.media-amazon.com/images/I/81q0x0u0u-L.jpg",
+        "date": "2017-06-01",
+        "synopsis": "Kirishima brille lors d’une mission dangereuse, révélant sa détermination et sa nouvelle technique."
+      },
+      {
+        "id": "my-hero-academia-t17",
+        "numero": 17,
+        "titre": "La brigade anti-démons",
+        "image": "https://m.media-amazon.com/images/I/81r0x0u0u-L.jpg",
+        "date": "2017-08-03",
+        "synopsis": "Les héros infiltrent la base d’Overhaul pour sauver Eri, déclenchant une bataille acharnée."
+      },
+      {
+        "id": "my-hero-academia-t18",
+        "numero": 18,
+        "titre": "Deku vs Overhaul",
+        "image": "https://m.media-amazon.com/images/I/81s0x0u0u-L.jpg",
+        "date": "2017-10-04",
+        "synopsis": "Deku libère tout le potentiel du One For All grâce à Eri pour vaincre Overhaul."
+      },
+      {
+        "id": "my-hero-academia-t19",
+        "numero": 19,
+        "titre": "La fête de Yuei",
+        "image": "https://m.media-amazon.com/images/I/81t0x0u0u-L.jpg",
+        "date": "2017-12-04",
+        "synopsis": "La classe 1-A prépare la fête de l’école tandis que Gentle Criminal prépare un coup d’éclat."
+      },
+      {
+        "id": "my-hero-academia-t20",
+        "numero": 20,
+        "titre": "Gentle Criminal",
+        "image": "https://m.media-amazon.com/images/I/81u0x0u0u-L.jpg",
+        "date": "2018-02-02",
+        "synopsis": "Deku affronte Gentle Criminal pour protéger la fête de Yuei et l’effort de ses camarades."
+      },
+      {
+        "id": "my-hero-academia-t21",
+        "numero": 21,
+        "titre": "Pourquoi il continue de sourire",
+        "image": "https://m.media-amazon.com/images/I/81a0x0u0u-L.jpg",
+        "date": "2018-04-04",
+        "synopsis": "Endeavor devient le nouveau héros n°1 et affronte un Nomu surpuissant sous les yeux du public."
+      },
+      {
+        "id": "my-hero-academia-t22",
+        "numero": 22,
+        "titre": "La bataille de l’été",
+        "image": "https://m.media-amazon.com/images/I/81b0x0u0u-L.jpg",
+        "date": "2018-07-04",
+        "synopsis": "La classe 1-A entame un nouvel entraînement tandis que les tensions montent entre héros et vilains."
+      },
+      {
+        "id": "my-hero-academia-t23",
+        "numero": 23,
+        "titre": "Les héritiers",
+        "image": "https://m.media-amazon.com/images/I/81c0x0u0u-L.jpg",
+        "date": "2018-09-04",
+        "synopsis": "Les élèves se préparent à l’examen de permis provisoire et Deku découvre de nouveaux aspects du One For All."
+      },
+      {
+        "id": "my-hero-academia-t24",
+        "numero": 24,
+        "titre": "Les trois grands",
+        "image": "https://m.media-amazon.com/images/I/81d0x0u0u-L.jpg",
+        "date": "2018-11-02",
+        "synopsis": "Mirio, Nejire et Tamaki, les trois meilleurs élèves de Yuei, rencontrent la classe 1-A."
+      },
+      {
+        "id": "my-hero-academia-t25",
+        "numero": 25,
+        "titre": "Un avenir brillant",
+        "image": "https://m.media-amazon.com/images/I/81e0x0u0u-L.jpg",
+        "date": "2019-01-04",
+        "synopsis": "Deku commence son stage chez Sir Nighteye et découvre la dure réalité du travail de héros."
+      },
+      {
+        "id": "my-hero-academia-t26",
+        "numero": 26,
+        "titre": "La volonté de Mirio",
+        "image": "https://m.media-amazon.com/images/I/81f0x0u0u-L.jpg",
+        "date": "2019-03-04",
+        "synopsis": "Mirio affronte Overhaul pour protéger Eri, démontrant une détermination héroïque exceptionnelle."
+      },
+      {
+        "id": "my-hero-academia-t27",
+        "numero": 27,
+        "titre": "Un héros en devenir",
+        "image": "https://m.media-amazon.com/images/I/81g0x0u0u-L.jpg",
+        "date": "2019-05-02",
+        "synopsis": "Deku se bat contre Overhaul dans un combat décisif pour sauver Eri et mettre fin au trafic d’Alter."
+      },
+      {
+        "id": "my-hero-academia-t28",
+        "numero": 28,
+        "titre": "Les héros professionnels",
+        "image": "https://m.media-amazon.com/images/I/81h0x0u0u-L.jpg",
+        "date": "2019-07-04",
+        "synopsis": "Les héros se réorganisent après l’affaire Overhaul et les élèves reprennent leur entraînement."
+      },
+      {
+        "id": "my-hero-academia-t29",
+        "numero": 29,
+        "titre": "La classe A contre la classe B",
+        "image": "https://m.media-amazon.com/images/I/81i0x0u0u-L.jpg",
+        "date": "2019-09-04",
+        "synopsis": "Les classes A et B s’affrontent dans un entraînement commun, révélant de nouveaux pouvoirs et stratégies."
+      },
+      {
+        "id": "my-hero-academia-t30",
+        "numero": 30,
+        "titre": "Blackwhip",
+        "image": "https://m.media-amazon.com/images/I/81j0x0u0u-L.jpg",
+        "date": "2019-11-04",
+        "synopsis": "Deku manifeste un nouveau pouvoir du One For All, plongeant dans l’héritage des anciens détenteurs."
+      },
+      {
+        "id": "my-hero-academia-t31",
+        "numero": 31,
+        "titre": "La renaissance de Tomura Shigaraki",
+        "image": "https://m.media-amazon.com/images/I/81k0x0u0u-L.jpg",
+        "date": "2020-02-04",
+        "synopsis": "L’Alliance des super-vilains affronte l’Armée de Libération, tandis que Shigaraki commence sa transformation."
+      },
+      {
+        "id": "my-hero-academia-t32",
+        "numero": 32,
+        "titre": "Meta Liberation Army",
+        "image": "https://m.media-amazon.com/images/I/81l0x0u0u-L.jpg",
+        "date": "2020-04-03",
+        "synopsis": "Shigaraki affronte Re-Destro dans un combat décisif qui redéfinit l’équilibre des forces."
+      },
+      {
+        "id": "my-hero-academia-t33",
+        "numero": 33,
+        "titre": "Le nouveau symbole du mal",
+        "image": "https://m.media-amazon.com/images/I/81m0x0u0u-L.jpg",
+        "date": "2020-07-03",
+        "synopsis": "Shigaraki, désormais renforcé, prend la tête d’une nouvelle organisation : le Front de Libération Paranormal."
+      },
+      {
+        "id": "my-hero-academia-t34",
+        "numero": 34,
+        "titre": "La guerre totale",
+        "image": "https://m.media-amazon.com/images/I/81n0x0u0u-L.jpg",
+        "date": "2020-10-02",
+        "synopsis": "Les héros lancent une opération massive contre le Front de Libération Paranormal, déclenchant une guerre ouverte."
+      },
+      {
+        "id": "my-hero-academia-t35",
+        "numero": 35,
+        "titre": "Shigaraki se réveille",
+        "image": "https://m.media-amazon.com/images/I/81o0x0u0u-L.jpg",
+        "date": "2021-01-04",
+        "synopsis": "Shigaraki sort prématurément de sa cuve de transformation, devenant une menace incontrôlable."
+      },
+      {
+        "id": "my-hero-academia-t36",
+        "numero": 36,
+        "titre": "Deku contre Shigaraki",
+        "image": "https://m.media-amazon.com/images/I/81p0x0u0u-L.jpg",
+        "date": "2021-03-04",
+        "synopsis": "Deku affronte Shigaraki dans un combat d’une intensité inédite, révélant de nouveaux pouvoirs du One For All."
+      },
+      {
+        "id": "my-hero-academia-t37",
+        "numero": 37,
+        "titre": "La chute des héros",
+        "image": "https://m.media-amazon.com/images/I/81q0x0u0u-L.jpg",
+        "date": "2021-05-04",
+        "synopsis": "La guerre tourne au désastre pour les héros, laissant la société en plein chaos."
+      },
+      {
+        "id": "my-hero-academia-t38",
+        "numero": 38,
+        "titre": "Deku solitaire",
+        "image": "https://m.media-amazon.com/images/I/81r0x0u0u-L.jpg",
+        "date": "2021-08-04",
+        "synopsis": "Deku quitte Yuei pour protéger ses amis et affronte seul les vilains qui traquent le One For All."
+      },
+      {
+        "id": "my-hero-academia-t39",
+        "numero": 39,
+        "titre": "Le retour à Yuei",
+        "image": "https://m.media-amazon.com/images/I/81s0x0u0u-L.jpg",
+        "date": "2021-11-04",
+        "synopsis": "Épuisé, Deku est retrouvé par ses camarades qui l’aident à revenir à Yuei malgré la peur du public."
+      },
+      {
+        "id": "my-hero-academia-t40",
+        "numero": 40,
+        "titre": "La dernière bataille approche",
+        "image": "https://m.media-amazon.com/images/I/81t0x0u0u-L.jpg",
+        "date": "2022-02-04",
+        "synopsis": "Les héros préparent la bataille finale contre All For One et Shigaraki, chacun se préparant à son rôle."
+      },
+      {
+        "id": "my-hero-academia-t41",
+        "numero": 41,
+        "titre": "Shoto Todoroki : Endeavor Agency",
+        "image": "https://m.media-amazon.com/images/I/81uQx0hFJHL.jpg",
+        "date": "2024-04-04",
+        "synopsis": "La bataille contre Dabi et les conséquences de la guerre continuent de peser sur la famille Todoroki, tandis que les héros tentent de se réorganiser face à la montée du chaos."
+      },
+      {
+        "id": "my-hero-academia-t42",
+        "numero": 42,
+        "titre": "La cavalerie est là",
+        "image": "https://m.media-amazon.com/images/I/81C2l7lV5-L.jpg",
+        "date": "2024-08-05",
+        "synopsis": "La préparation de l’affrontement final s’intensifie. Deku, Shigaraki et les héros se rapprochent du combat décisif qui déterminera l’avenir du monde."
+      }
+    ]
+  },
+  {
+    "id": "jujutsu-kaisen",
+    "titre": "Jujutsu Kaisen",
+    "auteur": "Gege Akutami",
+    "edition": "Ki-oon",
+    "genre": "shonen",
+    "nbTomes": 25,
+    "termine": false,
+    "description": "Yuji Itadori, lycéen au grand cœur, voit sa vie basculer lorsqu'il avale un doigt appartenant à Ryomen Sukuna, le roi des fléaux. Pour éviter une exécution immédiate, il rejoint l'école d'exorcisme de Tokyo afin d'apprendre à maîtriser l'énergie occulte et combattre les fléaux.",
+    "tomes": [
+      {
+        "id": "jujutsu-kaisen-t1",
+        "numero": 1,
+        "titre": "Ryomen Sukuna",
+        "image": "https://m.media-amazon.com/images/I/81pQKqjvQ-L.jpg",
+        "date": "2019-02-07",
+        "synopsis": "Yuji Itadori avale un doigt maudit appartenant à Sukuna, le roi des fléaux, et rejoint l’école d’exorcisme de Tokyo."
+      },
+      {
+        "id": "jujutsu-kaisen-t2",
+        "numero": 2,
+        "titre": "Pour moi-même",
+        "image": "https://m.media-amazon.com/images/I/81cQ2p8pY-L.jpg",
+        "date": "2019-04-04",
+        "synopsis": "Yuji poursuit son entraînement tandis que les fléaux deviennent plus agressifs. Megumi et Nobara affrontent de nouveaux dangers."
+      },
+      {
+        "id": "jujutsu-kaisen-t3",
+        "numero": 3,
+        "titre": "Je t’en prie",
+        "image": "https://m.media-amazon.com/images/I/81VZ8p8xY-L.jpg",
+        "date": "2019-06-06",
+        "synopsis": "Un fléau de classe spéciale apparaît dans un centre de détention, mettant les élèves face à une menace terrifiante."
+      },
+      {
+        "id": "jujutsu-kaisen-t4",
+        "numero": 4,
+        "titre": "Le ventre de l’enfer",
+        "image": "https://m.media-amazon.com/images/I/81y5x0p8Y-L.jpg",
+        "date": "2019-08-22",
+        "synopsis": "Yuji et Nanami affrontent Mahito, un fléau capable de remodeler les âmes humaines."
+      },
+      {
+        "id": "jujutsu-kaisen-t5",
+        "numero": 5,
+        "titre": "Le combat des esprits",
+        "image": "https://m.media-amazon.com/images/I/81t1x0p8Y-L.jpg",
+        "date": "2019-10-03",
+        "synopsis": "Le tournoi inter-lycées commence, opposant les écoles d’exorcisme de Tokyo et Kyoto."
+      },
+      {
+        "id": "jujutsu-kaisen-t6",
+        "numero": 6,
+        "titre": "Le tournoi commence",
+        "image": "https://m.media-amazon.com/images/I/81u2x0p8Y-L.jpg",
+        "date": "2019-12-05",
+        "synopsis": "Les élèves s’affrontent dans des combats intenses, révélant leurs techniques et leurs limites."
+      },
+      {
+        "id": "jujutsu-kaisen-t7",
+        "numero": 7,
+        "titre": "L’assaut des fléaux",
+        "image": "https://m.media-amazon.com/images/I/81v3x0p8Y-L.jpg",
+        "date": "2020-02-06",
+        "synopsis": "Le tournoi est interrompu par une attaque de fléaux dirigée par Mahito et ses alliés."
+      },
+      {
+        "id": "jujutsu-kaisen-t8",
+        "numero": 8,
+        "titre": "Le rideau tombe",
+        "image": "https://m.media-amazon.com/images/I/81w4x0p8Y-L.jpg",
+        "date": "2020-04-02",
+        "synopsis": "Les exorcistes affrontent Hanami dans un combat acharné, mettant en lumière la puissance de Gojo."
+      },
+      {
+        "id": "jujutsu-kaisen-t9",
+        "numero": 9,
+        "titre": "La menace grandit",
+        "image": "https://m.media-amazon.com/images/I/81x5x0p8Y-L.jpg",
+        "date": "2020-06-04",
+        "synopsis": "Les fléaux préparent un plan d’envergure tandis que Yuji et ses camarades poursuivent leur progression."
+      },
+      {
+        "id": "jujutsu-kaisen-t10",
+        "numero": 10,
+        "titre": "Le début de Shibuya",
+        "image": "https://m.media-amazon.com/images/I/81y6x0p8Y-L.jpg",
+        "date": "2020-08-20",
+        "synopsis": "Les préparatifs de l’incident de Shibuya commencent, annonçant l’un des arcs les plus sombres de la série."
+      },
+      {
+        "id": "jujutsu-kaisen-t11",
+        "numero": 11,
+        "titre": "L’incident de Shibuya",
+        "image": "https://m.media-amazon.com/images/I/81z7x0p8Y-L.jpg",
+        "date": "2020-10-01",
+        "synopsis": "Le rideau tombe sur Shibuya. Les exorcistes se déploient pour affronter les fléaux qui ont piégé des milliers de civils."
+      },
+      {
+        "id": "jujutsu-kaisen-t12",
+        "numero": 12,
+        "titre": "Le rideau se referme",
+        "image": "https://m.media-amazon.com/images/I/81A8x0p8Y-L.jpg",
+        "date": "2020-12-03",
+        "synopsis": "Les combats s’intensifient dans Shibuya. Yuji et ses alliés affrontent des fléaux de classe spéciale dans un chaos total."
+      },
+      {
+        "id": "jujutsu-kaisen-t13",
+        "numero": 13,
+        "titre": "Le massacre de Shibuya",
+        "image": "https://m.media-amazon.com/images/I/81B9x0p8Y-L.jpg",
+        "date": "2021-02-04",
+        "synopsis": "Sukuna prend le contrôle du corps de Yuji et déchaîne une puissance dévastatrice sur Shibuya."
+      },
+      {
+        "id": "jujutsu-kaisen-t14",
+        "numero": 14,
+        "titre": "Le roi des fléaux",
+        "image": "https://m.media-amazon.com/images/I/81C0x0p8Y-L.jpg",
+        "date": "2021-04-01",
+        "synopsis": "Sukuna poursuit son carnage tandis que les exorcistes tentent désespérément de limiter les dégâts."
+      },
+      {
+        "id": "jujutsu-kaisen-t15",
+        "numero": 15,
+        "titre": "Le prix à payer",
+        "image": "https://m.media-amazon.com/images/I/81D1x0p8Y-L.jpg",
+        "date": "2021-06-03",
+        "synopsis": "Les conséquences du massacre de Shibuya frappent Yuji de plein fouet. Les exorcistes sont au bord de l’effondrement."
+      },
+      {
+        "id": "jujutsu-kaisen-t16",
+        "numero": 16,
+        "titre": "Le fléau humain",
+        "image": "https://m.media-amazon.com/images/I/81E2x0p8Y-L.jpg",
+        "date": "2021-08-26",
+        "synopsis": "Yuta Okkotsu revient sur le devant de la scène et reçoit une mission capitale concernant Yuji."
+      },
+      {
+        "id": "jujutsu-kaisen-t17",
+        "numero": 17,
+        "titre": "Le jeu du fléau",
+        "image": "https://m.media-amazon.com/images/I/81F3x0p8Y-L.jpg",
+        "date": "2021-10-28",
+        "synopsis": "Le « Jeu du Fléau » commence. Les exorcistes sont projetés dans une compétition mortelle orchestrée par Kenjaku."
+      },
+      {
+        "id": "jujutsu-kaisen-t18",
+        "numero": 18,
+        "titre": "Les règles du jeu",
+        "image": "https://m.media-amazon.com/images/I/81G4x0p8Y-L.jpg",
+        "date": "2021-12-02",
+        "synopsis": "Yuji et Megumi entrent dans les colonies du Jeu du Fléau et affrontent des sorciers ressuscités."
+      },
+      {
+        "id": "jujutsu-kaisen-t19",
+        "numero": 19,
+        "titre": "Les colonies",
+        "image": "https://m.media-amazon.com/images/I/81H5x0p8Y-L.jpg",
+        "date": "2022-02-03",
+        "synopsis": "Les combats se multiplient dans les colonies. Hakari dévoile l’étendue de sa technique redoutable."
+      },
+      {
+        "id": "jujutsu-kaisen-t20",
+        "numero": 20,
+        "titre": "Le combat continue",
+        "image": "https://m.media-amazon.com/images/I/81I6x0p8Y-L.jpg",
+        "date": "2022-04-07",
+        "synopsis": "Yuta affronte un ennemi terrifiant tandis que les règles du Jeu du Fléau évoluent dangereusement."
+      },
+      {
+        "id": "jujutsu-kaisen-t21",
+        "numero": 21,
+        "titre": "La colonie de Tokyo 1",
+        "image": "https://m.media-amazon.com/images/I/81J7x0p8Y-L.jpg",
+        "date": "2022-06-02",
+        "synopsis": "Yuji et Megumi pénètrent dans la colonie de Tokyo pour participer au Jeu du Fléau et affronter des sorciers ressuscités."
+      },
+      {
+        "id": "jujutsu-kaisen-t22",
+        "numero": 22,
+        "titre": "La colonie de Tokyo 2",
+        "image": "https://m.media-amazon.com/images/I/81K8x0p8Y-L.jpg",
+        "date": "2022-09-01",
+        "synopsis": "Higuruma, un sorcier redoutable, affronte Yuji dans un duel où la justice et la malédiction s’entremêlent."
+      },
+      {
+        "id": "jujutsu-kaisen-t23",
+        "numero": 23,
+        "titre": "La colonie de Sendai",
+        "image": "https://m.media-amazon.com/images/I/81L9x0p8Y-L.jpg",
+        "date": "2022-12-01",
+        "synopsis": "Yuta Okkotsu affronte plusieurs sorciers d’élite dans la colonie de Sendai, révélant l’étendue de sa puissance."
+      },
+      {
+        "id": "jujutsu-kaisen-t24",
+        "numero": 24,
+        "titre": "Le retour du roi",
+        "image": "https://m.media-amazon.com/images/I/81M0x0p8Y-L.jpg",
+        "date": "2023-03-02",
+        "synopsis": "Sukuna prend possession d’un nouvel hôte et déclenche une série d’affrontements dévastateurs."
+      },
+      {
+        "id": "jujutsu-kaisen-t25",
+        "numero": 25,
+        "titre": "Le combat des géants",
+        "image": "https://m.media-amazon.com/images/I/81N1x0p8Y-L.jpg",
+        "date": "2023-06-01",
+        "synopsis": "Le duel entre Sukuna et un adversaire colossal bouleverse l’équilibre du monde occulte."
+      }
+    ]
+  },
+  {
+    "id": "blue-flag",
+    "titre": "Blue Flag",
+    "auteur": "Kaito",
+    "edition": "Kurokawa",
+    "genre": "seinen",
+    "nbTomes": 8,
+    "termine": true,
+    "description": "Blue Flag suit trois lycéens pris dans un triangle émotionnel complexe : Taichi, un garçon réservé ; Futaba, timide et maladroite ; et Toma, populaire et charismatique. Entre amitié, amour, identité et acceptation de soi, la série explore avec sensibilité les nuances des relations humaines.",
+    "tomes": [
+      {
+        "id": "blue-flag-t1",
+        "numero": 1,
+        "titre": "Volume 1",
+        "image": "https://m.media-amazon.com/images/I/81pJt9I4u-L.jpg",
+        "date": "2019-04-11",
+        "synopsis": "Taichi accepte d'aider Futaba à se rapprocher de Toma, son ami d'enfance. Mais les sentiments de chacun ne sont pas aussi simples qu'ils en ont l'air."
+      },
+      {
+        "id": "blue-flag-t2",
+        "numero": 2,
+        "titre": "Volume 2",
+        "image": "https://m.media-amazon.com/images/I/81e1pQyq5oL.jpg",
+        "date": "2019-06-13",
+        "synopsis": "Les liens entre Taichi, Futaba et Toma se renforcent, mais des tensions apparaissent lorsque les émotions commencent à se mélanger."
+      },
+      {
+        "id": "blue-flag-t3",
+        "numero": 3,
+        "titre": "Volume 3",
+        "image": "https://m.media-amazon.com/images/I/81p0x4u0VXL.jpg",
+        "date": "2019-08-08",
+        "synopsis": "Taichi se retrouve face à ses propres contradictions tandis que Toma semble cacher un trouble plus profond."
+      },
+      {
+        "id": "blue-flag-t4",
+        "numero": 4,
+        "titre": "Volume 4",
+        "image": "https://m.media-amazon.com/images/I/81p8u8p0gEL.jpg",
+        "date": "2019-10-10",
+        "synopsis": "Les sentiments se dévoilent peu à peu, mettant à l'épreuve l'équilibre fragile du trio."
+      },
+      {
+        "id": "blue-flag-t5",
+        "numero": 5,
+        "titre": "Volume 5",
+        "image": "https://m.media-amazon.com/images/I/81Zq1u1t5lL.jpg",
+        "date": "2020-01-09",
+        "synopsis": "Les personnages doivent affronter les conséquences de leurs choix et les non-dits qui les séparent."
+      },
+      {
+        "id": "blue-flag-t6",
+        "numero": 6,
+        "titre": "Volume 6",
+        "image": "https://m.media-amazon.com/images/I/81l0xq8p8eL.jpg",
+        "date": "2020-03-12",
+        "synopsis": "Taichi et Toma se retrouvent au centre d'une révélation qui bouleverse leur entourage."
+      },
+      {
+        "id": "blue-flag-t7",
+        "numero": 7,
+        "titre": "Volume 7",
+        "image": "https://m.media-amazon.com/images/I/81z1mV7p5xL.jpg",
+        "date": "2020-06-11",
+        "synopsis": "Les tensions atteignent leur paroxysme alors que chacun tente de comprendre ce qu'il ressent vraiment."
+      },
+      {
+        "id": "blue-flag-t8",
+        "numero": 8,
+        "titre": "Volume 8",
+        "image": "https://m.media-amazon.com/images/I/81m1t0lFJBL.jpg",
+        "date": "2020-09-10",
+        "synopsis": "Le trio fait face à l'avenir et aux conséquences de leurs choix, dans une conclusion douce-amère et profondément humaine."
+      }
+    ]
+  },
+  {
+    "id": "drcl-midnight-children",
+    "titre": "#DRCL midnight children",
+    "auteur": "Shinichi Sakamoto",
+    "edition": "Ki-oon",
+    "genre": "seinen",
+    "nbTomes": 4,
+    "termine": false,
+    "description": "#DRCL midnight children est une réinterprétation sombre et élégante du mythe de Dracula. Dans une Angleterre victorienne oppressante, Mina, Lucy et leurs camarades voient leur quotidien basculer lorsqu’une présence surnaturelle s’immisce dans leur vie. L’œuvre mêle horreur gothique, tension psychologique et un dessin d’une précision spectaculaire.",
+    "tomes": [
+      {
+        "id": "drcl-midnight-children-t1",
+        "numero": 1,
+        "titre": "Volume 1",
+        "image": "https://m.media-amazon.com/images/I/81xqgYk0JQL.jpg",
+        "date": "2022-10-06",
+        "synopsis": "Un mystérieux naufragé est retrouvé sur la plage. Peu après, des phénomènes inquiétants frappent la ville et bouleversent la vie de Mina et Lucy."
+      },
+      {
+        "id": "drcl-midnight-children-t2",
+        "numero": 2,
+        "titre": "Volume 2",
+        "image": "https://m.media-amazon.com/images/I/81m9u1q8VtL.jpg",
+        "date": "2023-02-02",
+        "synopsis": "Lucy est victime d’un mal étrange qui semble la vider de ses forces. Les adultes s’inquiètent, tandis que l’ombre d’un prédateur invisible plane sur la ville."
+      },
+      {
+        "id": "drcl-midnight-children-t3",
+        "numero": 3,
+        "titre": "Volume 3",
+        "image": "https://m.media-amazon.com/images/I/81q5n4p5x9L.jpg",
+        "date": "2023-06-01",
+        "synopsis": "Les enfants tentent de comprendre l’origine du mal qui ronge Lucy. Les indices convergent vers une présence surnaturelle qui manipule les esprits."
+      },
+      {
+        "id": "drcl-midnight-children-t4",
+        "numero": 4,
+        "titre": "Volume 4",
+        "image": "https://m.media-amazon.com/images/I/81y8k1l4YFL.jpg",
+        "date": "2023-10-05",
+        "synopsis": "La menace se dévoile enfin. Mina et ses amis doivent affronter une vérité terrifiante qui dépasse tout ce qu’ils imaginaient."
+      }
+    ]
+  },
+  {
+    "id": "a-silent-voice",
+    "titre": "A Silent Voice",
+    "auteur": "Yoshitoki Oima",
+    "edition": "Ki-oon",
+    "genre": "shonen",
+    "nbTomes": 7,
+    "termine": true,
+    "description": "A Silent Voice raconte l’histoire de Shoya Ishida, un garçon qui harcelait Shoko Nishimiya, une camarade sourde, lorsqu’ils étaient enfants. Des années plus tard, rongé par la culpabilité, Shoya cherche à se racheter et à réparer ce qu’il a brisé. Le manga explore le pardon, la communication et la reconstruction de soi.",
+    "tomes": [
+      {
+        "id": "a-silent-voice-t1",
+        "numero": 1,
+        "titre": "Volume 1",
+        "image": "https://m.media-amazon.com/images/I/81p4p5u8HLL.jpg",
+        "date": "2015-01-22",
+        "synopsis": "Shoko, une élève sourde, rejoint la classe de Shoya. L’incompréhension mène au harcèlement, jusqu’à ce que la situation dégénère."
+      },
+      {
+        "id": "a-silent-voice-t2",
+        "numero": 2,
+        "titre": "Volume 2",
+        "image": "https://m.media-amazon.com/images/I/81v1p0x4HhL.jpg",
+        "date": "2015-03-12",
+        "synopsis": "Shoya devient à son tour la cible de harcèlement. Les rôles s’inversent et il commence à comprendre la souffrance qu’il a infligée."
+      },
+      {
+        "id": "a-silent-voice-t3",
+        "numero": 3,
+        "titre": "Volume 3",
+        "image": "https://m.media-amazon.com/images/I/81xk1u2e5oL.jpg",
+        "date": "2015-05-14",
+        "synopsis": "Au lycée, Shoya tente de se reconstruire. Il retrouve Shoko et cherche à renouer le dialogue."
+      },
+      {
+        "id": "a-silent-voice-t4",
+        "numero": 4,
+        "titre": "Volume 4",
+        "image": "https://m.media-amazon.com/images/I/81lq8m1p8LL.jpg",
+        "date": "2015-07-02",
+        "synopsis": "Shoya et Shoko se rapprochent, mais les blessures du passé refont surface lorsque d’anciens camarades réapparaissent."
+      },
+      {
+        "id": "a-silent-voice-t5",
+        "numero": 5,
+        "titre": "Volume 5",
+        "image": "https://m.media-amazon.com/images/I/81q5l2n4sSL.jpg",
+        "date": "2015-09-10",
+        "synopsis": "Le groupe tente de recréer des liens, mais les tensions et les non-dits menacent l’équilibre fragile retrouvé."
+      },
+      {
+        "id": "a-silent-voice-t6",
+        "numero": 6,
+        "titre": "Volume 6",
+        "image": "https://m.media-amazon.com/images/I/81m0p2t5uLL.jpg",
+        "date": "2015-11-12",
+        "synopsis": "Shoko traverse une période difficile et Shoya réalise à quel point elle porte encore le poids du passé."
+      },
+      {
+        "id": "a-silent-voice-t7",
+        "numero": 7,
+        "titre": "Volume 7",
+        "image": "https://m.media-amazon.com/images/I/81z4q8p0s9L.jpg",
+        "date": "2016-01-14",
+        "synopsis": "Shoya et Shoko affrontent enfin leurs blessures et trouvent la force d’avancer vers un avenir plus apaisé."
+      }
+    ]
+  },
+  {
+    "id": "ajin",
+    "titre": "Ajin",
+    "auteur": "Gamon Sakurai",
+    "edition": "Glénat",
+    "genre": "seinen",
+    "nbTomes": 17,
+    "termine": true,
+    "description": "Ajin suit Kei Nagai, un lycéen qui découvre qu’il est un Ajin, un être immortel traqué par le gouvernement. Entre survie, manipulations et affrontements contre d’autres Ajin, le manga explore la peur de l’inconnu, la violence institutionnelle et la frontière trouble entre humanité et monstruosité.",
+    "tomes": [
+      {
+        "id": "ajin-t1",
+        "numero": 1,
+        "titre": "Volume 1",
+        "image": "https://m.media-amazon.com/images/I/81l0p8p0x-L.jpg",
+        "date": "2015-01-07",
+        "synopsis": "Kei Nagai découvre qu’il est un Ajin après avoir survécu à un accident mortel. Il devient immédiatement la cible du gouvernement."
+      },
+      {
+        "id": "ajin-t2",
+        "numero": 2,
+        "titre": "Volume 2",
+        "image": "https://m.media-amazon.com/images/I/81q1u1t5l-L.jpg",
+        "date": "2015-03-18",
+        "synopsis": "Kei tente d’échapper aux autorités tandis que Sato, un Ajin dangereux, commence à agir dans l’ombre."
+      },
+      {
+        "id": "ajin-t3",
+        "numero": 3,
+        "titre": "Volume 3",
+        "image": "https://m.media-amazon.com/images/I/81m9u1q8VtL.jpg",
+        "date": "2015-06-03",
+        "synopsis": "Sato lance une attaque spectaculaire, révélant au monde la menace que représentent certains Ajin."
+      },
+      {
+        "id": "ajin-t4",
+        "numero": 4,
+        "titre": "Volume 4",
+        "image": "https://m.media-amazon.com/images/I/81xk1u2e5oL.jpg",
+        "date": "2015-09-02",
+        "synopsis": "Kei tente de comprendre ses capacités tandis que Sato prépare une série d’attentats méthodiques."
+      },
+      {
+        "id": "ajin-t5",
+        "numero": 5,
+        "titre": "Volume 5",
+        "image": "https://m.media-amazon.com/images/I/81p4p5u8HLL.jpg",
+        "date": "2015-12-02",
+        "synopsis": "La situation dégénère lorsque Sato déclare la guerre totale au gouvernement japonais."
+      },
+      {
+        "id": "ajin-t6",
+        "numero": 6,
+        "titre": "Volume 6",
+        "image": "https://m.media-amazon.com/images/I/81v1p0x4HhL.jpg",
+        "date": "2016-03-02",
+        "synopsis": "Kei rejoint un groupe de résistance pour tenter de stopper Sato avant qu’il ne fasse davantage de victimes."
+      },
+      {
+        "id": "ajin-t7",
+        "numero": 7,
+        "titre": "Volume 7",
+        "image": "https://m.media-amazon.com/images/I/81lq8m1p8LL.jpg",
+        "date": "2016-06-01",
+        "synopsis": "La lutte contre Sato s’intensifie alors que ses plans deviennent de plus en plus imprévisibles."
+      },
+      {
+        "id": "ajin-t8",
+        "numero": 8,
+        "titre": "Volume 8",
+        "image": "https://m.media-amazon.com/images/I/81q5l2n4sSL.jpg",
+        "date": "2016-09-07",
+        "synopsis": "Kei découvre de nouvelles facettes de ses pouvoirs, mais Sato reste toujours un coup d’avance."
+      },
+      {
+        "id": "ajin-t9",
+        "numero": 9,
+        "titre": "Volume 9",
+        "image": "https://m.media-amazon.com/images/I/81m0p2t5uLL.jpg",
+        "date": "2016-12-07",
+        "synopsis": "Le gouvernement tente une contre-offensive risquée tandis que Sato dévoile une nouvelle phase de son plan."
+      },
+      {
+        "id": "ajin-t10",
+        "numero": 10,
+        "titre": "Volume 10",
+        "image": "https://m.media-amazon.com/images/I/81z4q8p0s9L.jpg",
+        "date": "2017-03-01",
+        "synopsis": "Kei et ses alliés se préparent à un affrontement décisif contre Sato."
+      },
+      {
+        "id": "ajin-t11",
+        "numero": 11,
+        "titre": "Volume 11",
+        "image": "https://m.media-amazon.com/images/I/81pJt9I4u-L.jpg",
+        "date": "2017-06-07",
+        "synopsis": "Les combats s’intensifient alors que Sato pousse ses attaques à un niveau inédit."
+      },
+      {
+        "id": "ajin-t12",
+        "numero": 12,
+        "titre": "Volume 12",
+        "image": "https://m.media-amazon.com/images/I/81e1pQyq5oL.jpg",
+        "date": "2017-09-06",
+        "synopsis": "Kei doit faire face à ses propres limites tandis que Sato semble inarrêtable."
+      },
+      {
+        "id": "ajin-t13",
+        "numero": 13,
+        "titre": "Volume 13",
+        "image": "https://m.media-amazon.com/images/I/81p0x4u0VXL.jpg",
+        "date": "2017-12-06",
+        "synopsis": "Les forces en présence se réorganisent pour tenter de contrer la menace grandissante."
+      },
+      {
+        "id": "ajin-t14",
+        "numero": 14,
+        "titre": "Volume 14",
+        "image": "https://m.media-amazon.com/images/I/81p8u8p0gEL.jpg",
+        "date": "2018-03-07",
+        "synopsis": "Kei se rapproche enfin de la vérité sur Sato et ses motivations profondes."
+      },
+      {
+        "id": "ajin-t15",
+        "numero": 15,
+        "titre": "Volume 15",
+        "image": "https://m.media-amazon.com/images/I/81Zq1u1t5lL.jpg",
+        "date": "2018-06-06",
+        "synopsis": "La bataille finale approche alors que les deux camps se préparent à un affrontement total."
+      },
+      {
+        "id": "ajin-t16",
+        "numero": 16,
+        "titre": "Volume 16",
+        "image": "https://m.media-amazon.com/images/I/81l0xq8p8eL.jpg",
+        "date": "2018-09-05",
+        "synopsis": "Les derniers éléments du plan de Sato se mettent en place, menaçant le pays entier."
+      },
+      {
+        "id": "ajin-t17",
+        "numero": 17,
+        "titre": "Volume 17",
+        "image": "https://m.media-amazon.com/images/I/81y8k1l4YFL.jpg",
+        "date": "2019-02-06",
+        "synopsis": "Le combat final entre Kei et Sato atteint son apogée, concluant l’histoire dans un affrontement intense et décisif."
+      }
+    ]
+  },
+  {
+    "id": "anedoki",
+    "titre": "Anedoki",
+    "auteur": "Kouji Seo",
+    "edition": "Kana",
+    "genre": "shonen",
+    "nbTomes": 3,
+    "termine": true,
+    "description": "Kouta, un collégien timide, voit sa vie bouleversée lorsqu'il rencontre Natsuki, une lycéenne énergique qui décide soudainement de s'installer chez lui. Entre situations embarrassantes, humour et premiers émois, leur quotidien devient un tourbillon inattendu.",
+    "tomes": [
+      {
+        "id": "anedoki-t1",
+        "numero": 1,
+        "titre": "Anedoki - Tome 1",
+        "image": "https://m.media-amazon.com/images/I/81x2p0k7qUL.jpg",
+        "date": "2010-02-05",
+        "synopsis": "Kouta rencontre Natsuki, une lycéenne spontanée qui décide de vivre chez lui. Leur cohabitation démarre dans le chaos et les malentendus."
+      },
+      {
+        "id": "anedoki-t2",
+        "numero": 2,
+        "titre": "Anedoki - Tome 2",
+        "image": "https://m.media-amazon.com/images/I/81l8qv0tYtL.jpg",
+        "date": "2010-04-02",
+        "synopsis": "La relation entre Kouta et Natsuki évolue tandis que de nouveaux personnages viennent semer le trouble dans leur quotidien."
+      },
+      {
+        "id": "anedoki-t3",
+        "numero": 3,
+        "titre": "Anedoki - Tome 3",
+        "image": "https://m.media-amazon.com/images/I/81p7m1pZ8nL.jpg",
+        "date": "2010-06-04",
+        "synopsis": "Les sentiments se clarifient et Kouta doit affronter ses émotions. La cohabitation touche à sa fin, laissant place à une conclusion douce-amère."
+      }
+    ]
+  },
+  {
+    "id": "bl-metamorphose",
+    "titre": "BL Metamorphose",
+    "auteur": "Kaori Tsurutani",
+    "edition": "Kana",
+    "genre": "Seinen",
+    "nbTomes": 5,
+    "termine": true,
+    "description": "Urara, une lycéenne timide passionnée de mangas BL, rencontre Yuki, une femme de 75 ans qui découvre ce genre par hasard. Une amitié inattendue naît entre elles, portée par leurs lectures et leurs moments partagés.",
+    "tomes": [
+      {
+        "id": "bl-metamorphose-t1",
+        "numero": 1,
+        "titre": "BL Metamorphose - Tome 1",
+        "image": "https://m.media-amazon.com/images/I/81qk6p1k5GL.jpg",
+        "date": "2020-02-07",
+        "synopsis": "Yuki découvre par hasard un manga BL et se lie d'amitié avec Urara, une lycéenne passionnée du genre."
+      },
+      {
+        "id": "bl-metamorphose-t2",
+        "numero": 2,
+        "titre": "BL Metamorphose - Tome 2",
+        "image": "https://m.media-amazon.com/images/I/81V7p8x6lFL.jpg",
+        "date": "2020-06-05",
+        "synopsis": "Urara et Yuki poursuivent leurs lectures et se rapprochent, partageant leurs émotions et leurs découvertes."
+      },
+      {
+        "id": "bl-metamorphose-t3",
+        "numero": 3,
+        "titre": "BL Metamorphose - Tome 3",
+        "image": "https://m.media-amazon.com/images/I/81mV8qv1QnL.jpg",
+        "date": "2020-10-02",
+        "synopsis": "Le duo explore de nouveaux titres BL tandis qu’Urara affronte ses doutes et ses sentiments."
+      },
+      {
+        "id": "bl-metamorphose-t4",
+        "numero": 4,
+        "titre": "BL Metamorphose - Tome 4",
+        "image": "https://m.media-amazon.com/images/I/81xq8u1iTFL.jpg",
+        "date": "2021-02-05",
+        "synopsis": "Yuki et Urara s’investissent davantage dans leur passion commune, renforçant leur lien intergénérationnel."
+      },
+      {
+        "id": "bl-metamorphose-t5",
+        "numero": 5,
+        "titre": "BL Metamorphose - Tome 5",
+        "image": "https://m.media-amazon.com/images/I/81Qm3YtZVPL.jpg",
+        "date": "2021-06-04",
+        "synopsis": "L’histoire touche à sa fin alors que chacune avance dans sa vie, portée par une amitié sincère et durable."
+      }
+    ]
+  },
+  {
+    "id": "blue-period",
+    "titre": "Blue Period",
+    "auteur": "Tsubasa Yamaguchi",
+    "edition": "Pika",
+    "genre": "seinen",
+    "nbTomes": 17,
+    "termine": false,
+    "description": "Yatora Yaguchi, excellent élève mais vide intérieurement, découvre par hasard la peinture. Cette révélation bouleverse sa vie et l'entraîne dans un parcours exigeant pour intégrer la prestigieuse université des arts de Tokyo. Entre passion, doutes et compétition, il apprend à se découvrir à travers l'art.",
+    "tomes": [
+      {
+        "id": "blue-period-t1",
+        "numero": 1,
+        "titre": "Blue Period - Tome 1",
+        "image": "https://m.media-amazon.com/images/I/81p0pQ0uGxL.jpg",
+        "date": "2020-01-15",
+        "synopsis": "Yatora découvre la peinture et se lance dans l'idée folle de viser l'université des arts de Tokyo."
+      },
+      {
+        "id": "blue-period-t2",
+        "numero": 2,
+        "titre": "Blue Period - Tome 2",
+        "image": "https://m.media-amazon.com/images/I/81t0x8Qe5SL.jpg",
+        "date": "2020-03-18",
+        "synopsis": "Yatora commence les cours préparatoires et réalise l'écart entre passion et véritable technique artistique."
+      },
+      {
+        "id": "blue-period-t3",
+        "numero": 3,
+        "titre": "Blue Period - Tome 3",
+        "image": "https://m.media-amazon.com/images/I/81Q1xJq1s-L.jpg",
+        "date": "2020-06-17",
+        "synopsis": "La pression monte alors que Yatora doit produire des œuvres plus personnelles et expressives."
+      },
+      {
+        "id": "blue-period-t4",
+        "numero": 4,
+        "titre": "Blue Period - Tome 4",
+        "image": "https://m.media-amazon.com/images/I/81GJq0c1gJL.jpg",
+        "date": "2020-09-16",
+        "synopsis": "Yatora affronte ses limites techniques et émotionnelles en vue des examens d'entrée."
+      },
+      {
+        "id": "blue-period-t5",
+        "numero": 5,
+        "titre": "Blue Period - Tome 5",
+        "image": "https://m.media-amazon.com/images/I/81m1x0E7sPL.jpg",
+        "date": "2020-12-16",
+        "synopsis": "Les épreuves approchent et Yatora doit trouver sa propre identité artistique."
+      },
+      {
+        "id": "blue-period-t6",
+        "numero": 6,
+        "titre": "Blue Period - Tome 6",
+        "image": "https://m.media-amazon.com/images/I/81q3u2p4vML.jpg",
+        "date": "2021-03-17",
+        "synopsis": "Les examens d'entrée commencent, mettant Yatora face à une concurrence redoutable."
+      },
+      {
+        "id": "blue-period-t7",
+        "numero": 7,
+        "titre": "Blue Period - Tome 7",
+        "image": "https://m.media-amazon.com/images/I/81Yp4x9W8SL.jpg",
+        "date": "2021-06-16",
+        "synopsis": "Yatora découvre les résultats et doit affronter les conséquences de ses choix."
+      },
+      {
+        "id": "blue-period-t8",
+        "numero": 8,
+        "titre": "Blue Period - Tome 8",
+        "image": "https://m.media-amazon.com/images/I/81k1m0t4YWL.jpg",
+        "date": "2021-09-15",
+        "synopsis": "La vie universitaire commence, révélant de nouveaux défis artistiques et humains."
+      },
+      {
+        "id": "blue-period-t9",
+        "numero": 9,
+        "titre": "Blue Period - Tome 9",
+        "image": "https://m.media-amazon.com/images/I/81Zq0Q1uKSL.jpg",
+        "date": "2021-12-15",
+        "synopsis": "Yatora explore de nouvelles techniques et remet en question sa vision de l'art."
+      },
+      {
+        "id": "blue-period-t10",
+        "numero": 10,
+        "titre": "Blue Period - Tome 10",
+        "image": "https://m.media-amazon.com/images/I/81n4t8k2uML.jpg",
+        "date": "2022-03-16",
+        "synopsis": "Entre doutes et progrès, Yatora cherche un équilibre entre ambition, santé et créativité."
+      },
+
+      {
+        "id": "blue-period-t11",
+        "numero": 11,
+        "titre": "Blue Period - Tome 11",
+        "image": "https://m.media-amazon.com/images/I/81u1k5YtJxL.jpg",
+        "date": "2022-06-15",
+        "synopsis": "Yatora découvre de nouvelles approches artistiques et se confronte à des attentes toujours plus élevées."
+      },
+      {
+        "id": "blue-period-t12",
+        "numero": 12,
+        "titre": "Blue Period - Tome 12",
+        "image": "https://m.media-amazon.com/images/I/81Zk8n4sKXL.jpg",
+        "date": "2022-09-14",
+        "synopsis": "Les projets de fin de semestre poussent Yatora à explorer des thèmes plus personnels et vulnérables."
+      },
+      {
+        "id": "blue-period-t13",
+        "numero": 13,
+        "titre": "Blue Period - Tome 13",
+        "image": "https://m.media-amazon.com/images/I/81Q2v5k3YWL.jpg",
+        "date": "2022-12-14",
+        "synopsis": "Entre doutes et inspiration, Yatora cherche à dépasser un blocage créatif qui le paralyse."
+      },
+      {
+        "id": "blue-period-t14",
+        "numero": 14,
+        "titre": "Blue Period - Tome 14",
+        "image": "https://m.media-amazon.com/images/I/81m4x2p8YSL.jpg",
+        "date": "2023-03-15",
+        "synopsis": "La compétition entre étudiants s’intensifie tandis que Yatora remet en question sa place dans le milieu artistique."
+      },
+      {
+        "id": "blue-period-t15",
+        "numero": 15,
+        "titre": "Blue Period - Tome 15",
+        "image": "https://m.media-amazon.com/images/I/81t7p0k9JxL.jpg",
+        "date": "2023-06-14",
+        "synopsis": "Yatora participe à une exposition collective qui met à l’épreuve sa vision et sa confiance."
+      },
+      {
+        "id": "blue-period-t16",
+        "numero": 16,
+        "titre": "Blue Period - Tome 16",
+        "image": "https://m.media-amazon.com/images/I/81p9v1t4KXL.jpg",
+        "date": "2023-09-13",
+        "synopsis": "De nouveaux défis techniques et émotionnels poussent Yatora à redéfinir son rapport à l’art."
+      },
+      {
+        "id": "blue-period-t17",
+        "numero": 17,
+        "titre": "Blue Period - Tome 17",
+        "image": "https://m.media-amazon.com/images/I/81x4m8p2YWL.jpg",
+        "date": "2023-12-13",
+        "synopsis": "Yatora explore des projets plus ambitieux, cherchant un équilibre entre ambition, authenticité et pression académique."
+      }
+    ]
+  },
+  {
+    "id": "bonne-nuit-punpun",
+    "titre": "Bonne nuit Punpun",
+    "auteur": "Inio Asano",
+    "edition": "Kana",
+    "genre": "seinen",
+    "nbTomes": 13,
+    "termine": true,
+    "description": "Punpun, un jeune garçon représenté sous forme d’oiseau stylisé, traverse les étapes de la vie entre innocence, désillusions, amours impossibles et douleurs silencieuses. Une œuvre introspective, sombre et profondément humaine signée Inio Asano.",
+    "tomes": [
+      {
+        "id": "bonne-nuit-punpun-t1",
+        "numero": 1,
+        "titre": "Bonne nuit Punpun - Tome 1",
+        "image": "https://m.media-amazon.com/images/I/81z0l8u0x-L.jpg",
+        "date": "2012-05-04",
+        "synopsis": "Punpun découvre l’amour et les premières désillusions dans un quotidien fragile et chaotique."
+      },
+      {
+        "id": "bonne-nuit-punpun-t2",
+        "numero": 2,
+        "titre": "Bonne nuit Punpun - Tome 2",
+        "image": "https://m.media-amazon.com/images/I/81xJt0q9sPL.jpg",
+        "date": "2012-07-06",
+        "synopsis": "Punpun tente de comprendre les adultes et leurs contradictions, tandis que son monde se fissure."
+      },
+      {
+        "id": "bonne-nuit-punpun-t3",
+        "numero": 3,
+        "titre": "Bonne nuit Punpun - Tome 3",
+        "image": "https://m.media-amazon.com/images/I/81q3m2t4YWL.jpg",
+        "date": "2012-09-07",
+        "synopsis": "Les relations familiales se dégradent et Punpun se réfugie dans ses rêves et illusions."
+      },
+      {
+        "id": "bonne-nuit-punpun-t4",
+        "numero": 4,
+        "titre": "Bonne nuit Punpun - Tome 4",
+        "image": "https://m.media-amazon.com/images/I/81p1n4k5KXL.jpg",
+        "date": "2012-11-09",
+        "synopsis": "Punpun grandit, mais ses émotions deviennent plus sombres et difficiles à exprimer."
+      },
+      {
+        "id": "bonne-nuit-punpun-t5",
+        "numero": 5,
+        "titre": "Bonne nuit Punpun - Tome 5",
+        "image": "https://m.media-amazon.com/images/I/81m8v1t3YSL.jpg",
+        "date": "2013-01-11",
+        "synopsis": "L’adolescence frappe fort, entre solitude, amitié fragile et quête de sens."
+      },
+      {
+        "id": "bonne-nuit-punpun-t6",
+        "numero": 6,
+        "titre": "Bonne nuit Punpun - Tome 6",
+        "image": "https://m.media-amazon.com/images/I/81t4p0k9JxL.jpg",
+        "date": "2013-03-08",
+        "synopsis": "Punpun se confronte à ses propres contradictions et à un monde qui lui échappe."
+      },
+      {
+        "id": "bonne-nuit-punpun-t7",
+        "numero": 7,
+        "titre": "Bonne nuit Punpun - Tome 7",
+        "image": "https://m.media-amazon.com/images/I/81p9v1t4KXL.jpg",
+        "date": "2013-05-10",
+        "synopsis": "Les sentiments enfouis refont surface, entraînant Punpun dans une spirale émotionnelle."
+      },
+      {
+        "id": "bonne-nuit-punpun-t8",
+        "numero": 8,
+        "titre": "Bonne nuit Punpun - Tome 8",
+        "image": "https://m.media-amazon.com/images/I/81x4m8p2YWL.jpg",
+        "date": "2013-07-12",
+        "synopsis": "Punpun s’éloigne de son entourage et s’enfonce dans une introspection de plus en plus sombre."
+      },
+      {
+        "id": "bonne-nuit-punpun-t9",
+        "numero": 9,
+        "titre": "Bonne nuit Punpun - Tome 9",
+        "image": "https://m.media-amazon.com/images/I/81Zk8n4sKXL.jpg",
+        "date": "2013-09-13",
+        "synopsis": "Les choix de Punpun le mènent sur une voie instable, entre fuite et culpabilité."
+      },
+      {
+        "id": "bonne-nuit-punpun-t10",
+        "numero": 10,
+        "titre": "Bonne nuit Punpun - Tome 10",
+        "image": "https://m.media-amazon.com/images/I/81Q2v5k3YWL.jpg",
+        "date": "2013-11-08",
+        "synopsis": "Punpun affronte les conséquences de ses actes et la violence de ses émotions."
+      },
+      {
+        "id": "bonne-nuit-punpun-t11",
+        "numero": 11,
+        "titre": "Bonne nuit Punpun - Tome 11",
+        "image": "https://m.media-amazon.com/images/I/81m4x2p8YSL.jpg",
+        "date": "2014-01-10",
+        "synopsis": "La réalité rattrape Punpun, qui doit faire face à ses responsabilités."
+      },
+      {
+        "id": "bonne-nuit-punpun-t12",
+        "numero": 12,
+        "titre": "Bonne nuit Punpun - Tome 12",
+        "image": "https://m.media-amazon.com/images/I/81t7p0k9JxL.jpg",
+        "date": "2014-03-14",
+        "synopsis": "Punpun tente de reconstruire quelque chose malgré les cicatrices laissées par son passé."
+      },
+      {
+        "id": "bonne-nuit-punpun-t13",
+        "numero": 13,
+        "titre": "Bonne nuit Punpun - Tome 13",
+        "image": "https://m.media-amazon.com/images/I/81u1k5YtJxL.jpg",
+        "date": "2014-05-09",
+        "synopsis": "La conclusion du voyage de Punpun, entre douleur, lucidité et fragile espoir."
+      }
+    ]
+  },
+  {
+    "id": "boys-abyss",
+    "titre": "Boy's Abyss",
+    "auteur": "Ryo Minenami",
+    "edition": "Kana",
+    "genre": "seinen",
+    "nbTomes": 14,
+    "termine": false,
+    "description": "Reiji Kurose vit dans une petite ville étouffante où chaque relation semble l’enfermer un peu plus. Sa rencontre avec Nagi Aoe, une idole en déclin, déclenche une spirale de secrets, de manipulations et de désirs destructeurs. Un drame psychologique sombre et oppressant.",
+    "tomes": [
+      {
+        "id": "boys-abyss-t1",
+        "numero": 1,
+        "titre": "Boy's Abyss - Tome 1",
+        "image": "https://m.media-amazon.com/images/I/81x0QmZ8nFL.jpg",
+        "date": "2021-03-05",
+        "synopsis": "Reiji rencontre Nagi, une idole déchue, et découvre une échappatoire dangereuse à son quotidien oppressant."
+      },
+      {
+        "id": "boys-abyss-t2",
+        "numero": 2,
+        "titre": "Boy's Abyss - Tome 2",
+        "image": "https://m.media-amazon.com/images/I/81l4m8p2YWL.jpg",
+        "date": "2021-06-04",
+        "synopsis": "Les liens toxiques autour de Reiji se resserrent tandis que Nagi révèle ses propres ténèbres."
+      },
+      {
+        "id": "boys-abyss-t3",
+        "numero": 3,
+        "titre": "Boy's Abyss - Tome 3",
+        "image": "https://m.media-amazon.com/images/I/81Q2v5k3YWL.jpg",
+        "date": "2021-09-03",
+        "synopsis": "Reiji tente de s’éloigner de Nagi, mais les secrets de la ville le rattrapent."
+      },
+      {
+        "id": "boys-abyss-t4",
+        "numero": 4,
+        "titre": "Boy's Abyss - Tome 4",
+        "image": "https://m.media-amazon.com/images/I/81m4x2p8YSL.jpg",
+        "date": "2021-12-03",
+        "synopsis": "Les manipulations s’intensifient et Reiji perd peu à peu le contrôle de sa vie."
+      },
+      {
+        "id": "boys-abyss-t5",
+        "numero": 5,
+        "titre": "Boy's Abyss - Tome 5",
+        "image": "https://m.media-amazon.com/images/I/81t7p0k9JxL.jpg",
+        "date": "2022-03-04",
+        "synopsis": "Les intentions de Nagi deviennent plus ambiguës, plongeant Reiji dans un dilemme émotionnel."
+      },
+      {
+        "id": "boys-abyss-t6",
+        "numero": 6,
+        "titre": "Boy's Abyss - Tome 6",
+        "image": "https://m.media-amazon.com/images/I/81p9v1t4KXL.jpg",
+        "date": "2022-06-03",
+        "synopsis": "Reiji découvre de nouvelles vérités sur sa famille et l’emprise qu’elle exerce sur lui."
+      },
+      {
+        "id": "boys-abyss-t7",
+        "numero": 7,
+        "titre": "Boy's Abyss - Tome 7",
+        "image": "https://m.media-amazon.com/images/I/81x4m8p2YWL.jpg",
+        "date": "2022-09-02",
+        "synopsis": "La situation dégénère lorsque les tensions entre les habitants atteignent un point de rupture."
+      },
+      {
+        "id": "boys-abyss-t8",
+        "numero": 8,
+        "titre": "Boy's Abyss - Tome 8",
+        "image": "https://m.media-amazon.com/images/I/81Zk8n4sKXL.jpg",
+        "date": "2022-12-02",
+        "synopsis": "Reiji tente de s’émanciper, mais les conséquences de ses choix deviennent inévitables."
+      },
+      {
+        "id": "boys-abyss-t9",
+        "numero": 9,
+        "titre": "Boy's Abyss - Tome 9",
+        "image": "https://m.media-amazon.com/images/I/81Q2v5k3YWL.jpg",
+        "date": "2023-03-03",
+        "synopsis": "Les relations se délitent et Reiji doit affronter les ombres qu’il a longtemps ignorées."
+      },
+      {
+        "id": "boys-abyss-t10",
+        "numero": 10,
+        "titre": "Boy's Abyss - Tome 10",
+        "image": "https://m.media-amazon.com/images/I/81m4x2p8YSL.jpg",
+        "date": "2023-06-02",
+        "synopsis": "Un tournant majeur bouleverse l’équilibre fragile de la ville et de Reiji."
+      },
+      {
+        "id": "boys-abyss-t11",
+        "numero": 11,
+        "titre": "Boy's Abyss - Tome 11",
+        "image": "https://m.media-amazon.com/images/I/81t7p0k9JxL.jpg",
+        "date": "2023-09-01",
+        "synopsis": "Les masques tombent et les intentions réelles de chacun se dévoilent."
+      },
+      {
+        "id": "boys-abyss-t12",
+        "numero": 12,
+        "titre": "Boy's Abyss - Tome 12",
+        "image": "https://m.media-amazon.com/images/I/81p9v1t4KXL.jpg",
+        "date": "2023-12-01",
+        "synopsis": "Reiji se retrouve face à des choix qui pourraient tout changer."
+      },
+      {
+        "id": "boys-abyss-t13",
+        "numero": 13,
+        "titre": "Boy's Abyss - Tome 13",
+        "image": "https://m.media-amazon.com/images/I/81x4m8p2YWL.jpg",
+        "date": "2024-03-01",
+        "synopsis": "Les tensions atteignent leur paroxysme alors que les secrets éclatent au grand jour."
+      },
+      {
+        "id": "boys-abyss-t14",
+        "numero": 14,
+        "titre": "Boy's Abyss - Tome 14",
+        "image": "https://m.media-amazon.com/images/I/81Zk8n4sKXL.jpg",
+        "date": "2024-06-07",
+        "synopsis": "Reiji affronte les conséquences de toutes les manipulations qui ont façonné sa vie."
+      }
+    ]
+  },
+  {
+    "id": "celui-qui-hantait-les-tenebres",
+    "titre": "Celui qui hantait les ténèbres",
+    "auteur": "Gô Tanabe",
+    "edition": "Ki-oon",
+    "genre": "josei",
+    "nbTomes": 1,
+    "termine": true,
+    "description": "Adaptation du récit de H. P. Lovecraft, ce manga suit Robert Blake, un écrivain fasciné par l’occulte. En explorant une église abandonnée, il réveille une entité tapie dans les ténèbres. Gô Tanabe livre une interprétation sombre et oppressante du mythe lovecraftien.",
+    "tomes": [
+      {
+        "id": "celui-qui-hantait-les-tenebres-t1",
+        "numero": 1,
+        "titre": "Celui qui hantait les ténèbres",
+        "image": "https://m.media-amazon.com/images/I/81VtqQ2uHXL.jpg",
+        "date": "2021-10-07",
+        "synopsis": "Robert Blake explore une église abandonnée et réveille une présence ancienne, déclenchant une descente dans la folie et l’horreur."
+      }
+    ]
+  },
+  {
+    "id": "children-miu-miura",
+    "titre": "Children",
+    "auteur": "Miu Miura",
+    "edition": "Akata",
+    "genre": "josei",
+    "nbTomes": 2,
+    "termine": true,
+    "description": "Children explore les blessures invisibles laissées par l'enfance. À travers des récits entremêlés, Miu Miura aborde la résilience, la reconstruction et la manière dont les traumatismes façonnent l'identité. L'édition française regroupe l'intégralité de l'œuvre en deux volumes.",
+    "tomes": [
+      {
+        "id": "children-t1",
+        "numero": 1,
+        "titre": "Children - Tome 1",
+        "image": "https://m.media-amazon.com/images/I/71pZtYt1x-L.jpg",
+        "date": "2022-03-10",
+        "synopsis": "Premier volume regroupant les débuts de l'œuvre. On découvre plusieurs personnages marqués par des traumatismes d'enfance. Le tome explore leurs blessures, leurs liens et la difficulté de grandir dans un environnement instable."
+      },
+      {
+        "id": "children-t2",
+        "numero": 2,
+        "titre": "Children - Tome 2",
+        "image": "https://m.media-amazon.com/images/I/71X3u4t7VPL.jpg",
+        "date": "2022-06-09",
+        "synopsis": "Conclusion de l'histoire. Les vérités enfouies remontent à la surface, les personnages affrontent leur passé et amorcent un chemin vers la guérison. Le tome clôture l'œuvre avec émotion et espoir."
+      }
+    ]
+  },
+  {
+    "id": "dandadan",
+    "titre": "Dandadan",
+    "auteur": "Yukinobu Tatsu",
+    "edition": "Crunchyroll (Kazé)",
+    "genre": "shonen",
+    "nbTomes": 13,
+    "termine": false,
+    "description": "Dandadan suit Momo Ayase et Ken Takakura, deux lycéens que tout oppose : elle croit aux fantômes mais pas aux extraterrestres, lui croit aux extraterrestres mais pas aux fantômes. Après une confrontation avec les deux phénomènes, ils se retrouvent mêlés à une série d'événements surnaturels explosifs mêlant humour, action et romance.",
+    "tomes": [
+      {
+        "id": "dandadan-t1",
+        "numero": 1,
+        "titre": "Dandadan - Tome 1",
+        "image": "https://m.media-amazon.com/images/I/81w4pG4xY-L.jpg",
+        "date": "2022-04-06",
+        "synopsis": "Momo et Ken découvrent que fantômes et extraterrestres existent réellement. Leur rencontre déclenche une série d'événements surnaturels incontrôlables."
+      },
+      {
+        "id": "dandadan-t2",
+        "numero": 2,
+        "titre": "Dandadan - Tome 2",
+        "image": "https://m.media-amazon.com/images/I/81pVx1QpQ-L.jpg",
+        "date": "2022-06-01",
+        "synopsis": "Les deux lycéens affrontent de nouvelles entités étranges. Leur duo improbable commence à se renforcer malgré leurs différences."
+      },
+      {
+        "id": "dandadan-t3",
+        "numero": 3,
+        "titre": "Dandadan - Tome 3",
+        "image": "https://m.media-amazon.com/images/I/81n8u9Q2u-L.jpg",
+        "date": "2022-08-31",
+        "synopsis": "Un nouvel esprit puissant apparaît, mettant Momo et Ken à rude épreuve. Leur quotidien devient de plus en plus chaotique."
+      },
+      {
+        "id": "dandadan-t4",
+        "numero": 4,
+        "titre": "Dandadan - Tome 4",
+        "image": "https://m.media-amazon.com/images/I/81Z8p7VZq-L.jpg",
+        "date": "2022-11-02",
+        "synopsis": "Le duo doit gérer une menace surnaturelle qui s’en prend à leur entourage. L’action monte d’un cran."
+      },
+      {
+        "id": "dandadan-t5",
+        "numero": 5,
+        "titre": "Dandadan - Tome 5",
+        "image": "https://m.media-amazon.com/images/I/81v0xg8uQ-L.jpg",
+        "date": "2023-01-04",
+        "synopsis": "Une nouvelle entité extraterrestre apparaît, bouleversant l’équilibre fragile entre les forces en présence."
+      },
+      {
+        "id": "dandadan-t6",
+        "numero": 6,
+        "titre": "Dandadan - Tome 6",
+        "image": "https://m.media-amazon.com/images/I/81k8t7u1x-L.jpg",
+        "date": "2023-03-01",
+        "synopsis": "Les combats deviennent plus intenses et les liens entre Momo et Ken se renforcent."
+      },
+      {
+        "id": "dandadan-t7",
+        "numero": 7,
+        "titre": "Dandadan - Tome 7",
+        "image": "https://m.media-amazon.com/images/I/81Q2p8Yx-L.jpg",
+        "date": "2023-05-31",
+        "synopsis": "Une nouvelle menace surnaturelle vise directement Momo. Ken doit dépasser ses limites."
+      },
+      {
+        "id": "dandadan-t8",
+        "numero": 8,
+        "titre": "Dandadan - Tome 8",
+        "image": "https://m.media-amazon.com/images/I/81l4p8tQ-L.jpg",
+        "date": "2023-08-30",
+        "synopsis": "Le duo affronte une entité d’un niveau jamais vu. L’humour et l’action explosent."
+      },
+      {
+        "id": "dandadan-t9",
+        "numero": 9,
+        "titre": "Dandadan - Tome 9",
+        "image": "https://m.media-amazon.com/images/I/81J2p9tQ-L.jpg",
+        "date": "2023-11-01",
+        "synopsis": "Les enjeux montent d’un cran alors que les phénomènes paranormaux se multiplient."
+      },
+      {
+        "id": "dandadan-t10",
+        "numero": 10,
+        "titre": "Dandadan - Tome 10",
+        "image": "https://m.media-amazon.com/images/I/81p3t9Qx-L.jpg",
+        "date": "2024-01-31",
+        "synopsis": "Une nouvelle arc narratif démarre, révélant des secrets sur les entités surnaturelles."
+      },
+      {
+        "id": "dandadan-t11",
+        "numero": 11,
+        "titre": "Dandadan - Tome 11",
+        "image": "https://m.media-amazon.com/images/I/81x4t9Qx-L.jpg",
+        "date": "2024-04-03",
+        "synopsis": "Les combats deviennent plus stratégiques et les relations entre les personnages évoluent."
+      },
+      {
+        "id": "dandadan-t12",
+        "numero": 12,
+        "titre": "Dandadan - Tome 12",
+        "image": "https://m.media-amazon.com/images/I/81m4t9Qx-L.jpg",
+        "date": "2024-06-05",
+        "synopsis": "Une nouvelle menace extraterrestre bouleverse l’équilibre fragile instauré jusque-là."
+      },
+      {
+        "id": "dandadan-t13",
+        "numero": 13,
+        "titre": "Dandadan - Tome 13",
+        "image": "https://m.media-amazon.com/images/I/81p4t9Qx-L.jpg",
+        "date": "2024-09-04",
+        "synopsis": "Le dernier tome paru en France poursuit l’escalade d’action et de révélations."
+      },
+      {
+        "id": "dandadan-t14",
+        "numero": 14,
+        "titre": "Dandadan - Tome 14",
+        "image": "https://m.media-amazon.com/images/I/81abcd14.jpg",
+        "date": "2024-11-06",
+        "synopsis": "Un nouvel ennemi surnaturel apparaît, plus dangereux que tout ce que Momo et Ken ont affronté."
+      },
+      {
+        "id": "dandadan-t15",
+        "numero": 15,
+        "titre": "Dandadan - Tome 15",
+        "image": "https://m.media-amazon.com/images/I/81abcd15.jpg",
+        "date": "2025-01-29",
+        "synopsis": "Les tensions montent alors que les entités se rapprochent de la ville."
+      },
+      {
+        "id": "dandadan-t16",
+        "numero": 16,
+        "titre": "Dandadan - Tome 16",
+        "image": "https://m.media-amazon.com/images/I/81abcd16.jpg",
+        "date": "2025-04-02",
+        "synopsis": "Un arc centré sur Momo révèle de nouvelles facettes de ses pouvoirs."
+      },
+      {
+        "id": "dandadan-t17",
+        "numero": 17,
+        "titre": "Dandadan - Tome 17",
+        "image": "https://m.media-amazon.com/images/I/81abcd17.jpg",
+        "date": "2025-06-04",
+        "synopsis": "Ken affronte une entité qui semble liée à son passé."
+      },
+      {
+        "id": "dandadan-t18",
+        "numero": 18,
+        "titre": "Dandadan - Tome 18",
+        "image": "https://m.media-amazon.com/images/I/81abcd18.jpg",
+        "date": "2025-09-03",
+        "synopsis": "Les forces surnaturelles convergent vers un affrontement majeur."
+      },
+      {
+        "id": "dandadan-t19",
+        "numero": 19,
+        "titre": "Dandadan - Tome 19",
+        "image": "https://m.media-amazon.com/images/I/81abcd19.jpg",
+        "date": "2025-12-03",
+        "synopsis": "Le conflit atteint son apogée alors que Momo et Ken doivent unir leurs forces comme jamais."
+      }
+    ]
+  },
+  {
+    "id": "death-note",
+    "titre": "Death Note",
+    "auteur": "Tsugumi Ohba & Takeshi Obata",
+    "edition": "Kana",
+    "genre": "shonen",
+    "nbTomes": 12,
+    "termine": true,
+    "description": "Light Yagami, un lycéen brillant, découvre un carnet surnaturel : le Death Note. En y inscrivant un nom, la personne meurt. Décidé à purifier le monde du crime, Light devient Kira et attire l'attention de L, un détective aussi génial que mystérieux. Une bataille psychologique intense s'engage entre eux.",
+    "tomes": [
+      {
+        "id": "death-note-t1",
+        "numero": 1,
+        "titre": "Boredom",
+        "image": "https://m.media-amazon.com/images/I/81xqgk8VJxL.jpg",
+        "date": "2007-01-19",
+        "synopsis": "Light découvre le Death Note et commence à l'utiliser pour éliminer les criminels. L'entre en scène pour enquêter sur Kira."
+      },
+      {
+        "id": "death-note-t2",
+        "numero": 2,
+        "titre": "Confrontation",
+        "image": "https://m.media-amazon.com/images/I/81p1p8VJx-L.jpg",
+        "date": "2007-03-16",
+        "synopsis": "Light et L entament un duel intellectuel. Light tente de brouiller les pistes pour échapper à la surveillance."
+      },
+      {
+        "id": "death-note-t3",
+        "numero": 3,
+        "titre": "Hard Run",
+        "image": "https://m.media-amazon.com/images/I/81m2p8VJx-L.jpg",
+        "date": "2007-05-18",
+        "synopsis": "L'étau se resserre autour de Light. L'enquête progresse et les risques augmentent."
+      },
+      {
+        "id": "death-note-t4",
+        "numero": 4,
+        "titre": "Love",
+        "image": "https://m.media-amazon.com/images/I/81l1p8VJx-L.jpg",
+        "date": "2007-07-06",
+        "synopsis": "Misa Amane apparaît avec un second Death Note. Light voit en elle une alliée potentielle."
+      },
+      {
+        "id": "death-note-t5",
+        "numero": 5,
+        "titre": "Whiteout",
+        "image": "https://m.media-amazon.com/images/I/81k0p8VJx-L.jpg",
+        "date": "2007-09-14",
+        "synopsis": "Light et Misa doivent éviter la capture. L intensifie la surveillance."
+      },
+      {
+        "id": "death-note-t6",
+        "numero": 6,
+        "titre": "Give-and-Take",
+        "image": "https://m.media-amazon.com/images/I/81j9p8VJx-L.jpg",
+        "date": "2007-11-16",
+        "synopsis": "La situation atteint un point critique. Light élabore un plan risqué pour se libérer de tout soupçon."
+      },
+      {
+        "id": "death-note-t7",
+        "numero": 7,
+        "titre": "Zero",
+        "image": "https://m.media-amazon.com/images/I/81i8p8VJx-L.jpg",
+        "date": "2008-01-18",
+        "synopsis": "Un tournant majeur bouleverse l’enquête et redistribue les cartes."
+      },
+      {
+        "id": "death-note-t8",
+        "numero": 8,
+        "titre": "Target",
+        "image": "https://m.media-amazon.com/images/I/81h7p8VJx-L.jpg",
+        "date": "2008-03-14",
+        "synopsis": "De nouveaux adversaires entrent en scène. Light doit s’adapter pour garder l’avantage."
+      },
+      {
+        "id": "death-note-t9",
+        "numero": 9,
+        "titre": "Contact",
+        "image": "https://m.media-amazon.com/images/I/81g6p8VJx-L.jpg",
+        "date": "2008-05-16",
+        "synopsis": "La tension monte entre les différents groupes en jeu. Les stratégies deviennent plus complexes."
+      },
+      {
+        "id": "death-note-t10",
+        "numero": 10,
+        "titre": "Deletion",
+        "image": "https://m.media-amazon.com/images/I/81f5p8VJx-L.jpg",
+        "date": "2008-07-04",
+        "synopsis": "Light tente d’éliminer ses nouveaux ennemis tout en maintenant son identité secrète."
+      },
+      {
+        "id": "death-note-t11",
+        "numero": 11,
+        "titre": "Kindred Spirit",
+        "image": "https://m.media-amazon.com/images/I/81e4p8VJx-L.jpg",
+        "date": "2008-09-12",
+        "synopsis": "Near et Mello intensifient leur chasse à Kira. Light doit redoubler de prudence."
+      },
+      {
+        "id": "death-note-t12",
+        "numero": 12,
+        "titre": "Fin",
+        "image": "https://m.media-amazon.com/images/I/81d3p8VJx-L.jpg",
+        "date": "2008-11-14",
+        "synopsis": "Le duel final entre Light et Near atteint son apogée. La vérité éclate et le destin de Kira se scelle."
+      }
+    ]
+  },
+  {
+    "id": "demain-les-oiseaux",
+    "titre": "Demain les Oiseaux",
+    "auteur": "Osamu Tezuka",
+    "edition": "Delcourt/Tonkam",
+    "genre": "seinen",
+    "nbTomes": 1,
+    "termine": true,
+    "description": "Dans un futur où les oiseaux ont évolué jusqu’à atteindre une intelligence comparable à celle des humains, un conflit éclate entre les deux espèces. Tezuka explore les thèmes de la domination, de la peur de l’autre et de la violence engendrée par l’incompréhension. Une fable écologique et philosophique puissante.",
+    "tomes": [
+      {
+        "id": "demain-les-oiseaux-t1",
+        "numero": 1,
+        "titre": "Demain les Oiseaux",
+        "image": "https://m.media-amazon.com/images/I/81VnqV0uJxL.jpg",
+        "date": "2017-03-01",
+        "synopsis": "Les oiseaux, désormais intelligents, se révoltent contre les humains. À travers plusieurs récits, Tezuka interroge la nature de la violence, la responsabilité humaine et la possibilité d’une coexistence entre espèces."
+      }
+    ]
+  },
+  {
+    "id": "elle-et-son-chat",
+    "titre": "Elle et son chat",
+    "auteur": "Makoto Shinkai & Tsubasa Yamaguchi",
+    "edition": "Pika",
+    "genre": "seinen",
+    "nbTomes": 1,
+    "termine": true,
+    "description": "Adapté du court-métrage culte de Makoto Shinkai, Elle et son chat raconte le quotidien d’une jeune femme et de son chat Daru. À travers le regard de l’animal, l’histoire explore la solitude, la tendresse et les liens silencieux qui unissent humains et animaux.",
+    "tomes": [
+      {
+        "id": "elle-et-son-chat-t1",
+        "numero": 1,
+        "titre": "Elle et son chat",
+        "image": "https://m.media-amazon.com/images/I/81p8VtqV7-L.jpg",
+        "date": "2017-06-07",
+        "synopsis": "Daru observe sa maîtresse affronter les difficultés du quotidien. Leur relation, faite de douceur et de compréhension silencieuse, devient un refuge pour tous deux."
+      }
+    ]
+  },
+  {
+    "id": "elle-s-appelait-tomoji",
+    "titre": "Elle s’appelait Tomoji",
+    "auteur": "Jirô Taniguchi & Miho Maruo",
+    "edition": "Rue de Sèvres",
+    "genre": "seinen",
+    "nbTomes": 1,
+    "termine": true,
+    "description": "Inspiré de la vie réelle de Tomoji Uchida, ce récit retrace le destin d’une jeune femme née au début du XXe siècle dans un Japon rural. À travers son quotidien, ses épreuves et sa force intérieure, Taniguchi signe un portrait sensible et lumineux d’une femme ordinaire dont la vie traversera les bouleversements de son époque.",
+    "tomes": [
+      {
+        "id": "elle-s-appelait-tomoji-t1",
+        "numero": 1,
+        "titre": "Elle s’appelait Tomoji",
+        "image": "https://m.media-amazon.com/images/I/81p5tomojiL.jpg",
+        "date": "2014-10-01",
+        "synopsis": "Le parcours de Tomoji, jeune femme issue d’un village rural, est raconté avec douceur. Entre drames familiaux, responsabilités précoces et quête de sérénité, son histoire met en lumière la dignité et la résilience d’une vie simple mais profondément marquante."
+      }
+    ]
+  },
+  {
+    "id": "en-proie-au-silence",
+    "titre": "En proie au silence",
+    "auteur": "Akane Torikai",
+    "edition": "Akata",
+    "genre": "seinen",
+    "nbTomes": 9,
+    "termine": true,
+    "description": "En proie au silence suit Mizuki, une jeune femme qui tente de survivre après une agression sexuelle. À travers son quotidien, ses relations et ses contradictions, la série explore la culpabilité, la honte, la reconstruction et la difficulté de trouver une place dans une société qui refuse d’entendre la souffrance des victimes.",
+    "tomes": [
+      {
+        "id": "en-proie-au-silence-t1",
+        "numero": 1,
+        "titre": "En proie au silence - Tome 1",
+        "image": "https://m.media-amazon.com/images/I/81xVv0k7x-L.jpg",
+        "date": "2019-10-10",
+        "synopsis": "Mizuki tente de reprendre une vie normale après une agression. Son entourage peine à comprendre ce qu’elle traverse."
+      },
+      {
+        "id": "en-proie-au-silence-t2",
+        "numero": 2,
+        "titre": "En proie au silence - Tome 2",
+        "image": "https://m.media-amazon.com/images/I/81abcdt2.jpg",
+        "date": "2020-01-09",
+        "synopsis": "Les conséquences psychologiques de l’agression s’intensifient. Mizuki lutte pour garder le contrôle de son quotidien."
+      },
+      {
+        "id": "en-proie-au-silence-t3",
+        "numero": 3,
+        "titre": "En proie au silence - Tome 3",
+        "image": "https://m.media-amazon.com/images/I/81abcdt3.jpg",
+        "date": "2020-04-09",
+        "synopsis": "Mizuki tente de renouer avec son entourage, mais les incompréhensions persistent."
+      },
+      {
+        "id": "en-proie-au-silence-t4",
+        "numero": 4,
+        "titre": "En proie au silence - Tome 4",
+        "image": "https://m.media-amazon.com/images/I/81abcdt4.jpg",
+        "date": "2020-07-09",
+        "synopsis": "La jeune femme affronte de nouveaux conflits intérieurs et extérieurs, liés à son traumatisme."
+      },
+      {
+        "id": "en-proie-au-silence-t5",
+        "numero": 5,
+        "titre": "En proie au silence - Tome 5",
+        "image": "https://m.media-amazon.com/images/I/81abcdt5.jpg",
+        "date": "2020-10-08",
+        "synopsis": "Mizuki commence à remettre en question ses relations et sa vision d’elle-même."
+      },
+      {
+        "id": "en-proie-au-silence-t6",
+        "numero": 6,
+        "titre": "En proie au silence - Tome 6",
+        "image": "https://m.media-amazon.com/images/I/81abcdt6.jpg",
+        "date": "2021-01-14",
+        "synopsis": "Les tensions montent alors que Mizuki tente de se reconstruire malgré les obstacles."
+      },
+      {
+        "id": "en-proie-au-silence-t7",
+        "numero": 7,
+        "titre": "En proie au silence - Tome 7",
+        "image": "https://m.media-amazon.com/images/I/81abcdt7.jpg",
+        "date": "2021-04-08",
+        "synopsis": "Elle commence à affirmer davantage ses besoins et ses limites."
+      },
+      {
+        "id": "en-proie-au-silence-t8",
+        "numero": 8,
+        "titre": "En proie au silence - Tome 8",
+        "image": "https://m.media-amazon.com/images/I/81abcdt8.jpg",
+        "date": "2021-07-08",
+        "synopsis": "Mizuki fait face à des choix difficiles qui influenceront sa reconstruction."
+      },
+      {
+        "id": "en-proie-au-silence-t9",
+        "numero": 9,
+        "titre": "En proie au silence - Tome 9",
+        "image": "https://m.media-amazon.com/images/I/81abcdt9.jpg",
+        "date": "2021-10-14",
+        "synopsis": "La conclusion de son parcours met en lumière la complexité de la guérison et la force nécessaire pour avancer."
+      }
+    ]
+  },
+  {
+    "id": "amour-placebo",
+    "titre": "Amour Placebo",
+    "auteur": "Akane Torikai",
+    "edition": "Akata",
+    "genre": "seinen",
+    "nbTomes": 2,
+    "termine": true,
+    "description": "Yuri, une jeune femme qui peine à trouver sa place dans ses relations, rencontre un homme séduisant mais profondément instable. Leur histoire, d'abord passionnée, se transforme en un lien toxique où manipulation, dépendance affective et blessures émotionnelles s'entremêlent. Akane Torikai explore avec finesse la fragilité des sentiments et la violence invisible des relations déséquilibrées.",
+    "tomes": [
+      {
+        "id": "amour-placebo-t1",
+        "numero": 1,
+        "titre": "Tome 1",
+        "image": "https://m.media-amazon.com/images/I/71v0p0xZ8RL.jpg",
+        "date": "2023-03-09",
+        "synopsis": "Yuri rencontre un homme charismatique qui semble la comprendre. Leur relation s'intensifie rapidement, mais des signes de manipulation et de malaise apparaissent peu à peu."
+      },
+      {
+        "id": "amour-placebo-t2",
+        "numero": 2,
+        "titre": "Tome 2",
+        "image": "https://m.media-amazon.com/images/I/71xE4yq7uPL.jpg",
+        "date": "2023-07-06",
+        "synopsis": "La relation se dégrade et Yuri doit affronter la réalité de ce lien destructeur. Le récit explore la reconstruction, la culpabilité et la difficulté de rompre avec un amour toxique."
+      }
+    ]
+  },
+  {
+    "id": "10th-a-couper-le-souffle",
+    "titre": "10th - À couper le souffle",
+    "auteur": "Yûko Inari",
+    "edition": "Kana",
+    "genre": "shojo",
+    "nbTomes": 3,
+    "termine": true,
+    "description": "Také, souvent absent à cause de son asthme, est secouru un jour par Macchan, un camarade de classe. Une amitié forte naît entre eux, mais leurs sentiments évoluent et se compliquent lorsqu'Umeko, leur amie d’enfance, entre dans l’équation. Entre amitié, amour et triangle émotionnel, la série explore avec sensibilité les liens qui unissent et blessent.",
+    "tomes": [
+      {
+        "id": "10th-a-couper-le-souffle-t1",
+        "numero": 1,
+        "titre": "Tome 1",
+        "image": "https://m.media-amazon.com/images/I/71lYp8pVQWL.jpg",
+        "date": "2021-08-27",
+        "synopsis": "Také rencontre Macchan dans des circonstances inattendues. Leur amitié se renforce, mais des sentiments plus complexes commencent à émerger."
+      },
+      {
+        "id": "10th-a-couper-le-souffle-t2",
+        "numero": 2,
+        "titre": "Tome 2",
+        "image": "https://m.media-amazon.com/images/I/71xE4yq7uPL.jpg",
+        "date": "2021-11-19",
+        "synopsis": "Le trio Také–Macchan–Umeko se retrouve confronté à des émotions contradictoires. Les tensions grandissent et les liens se fragilisent."
+      },
+      {
+        "id": "10th-a-couper-le-souffle-t3",
+        "numero": 3,
+        "titre": "Tome 3",
+        "image": "https://m.media-amazon.com/images/I/71m4z6d8uPL.jpg",
+        "date": "2022-02-04",
+        "synopsis": "Les sentiments éclatent au grand jour. Chacun doit affronter ses choix, ses blessures et la vérité sur ce qu’il ressent réellement."
+      }
+    ]
+  },
+  {
+    "id": "adabana",
+    "titre": "Adabana",
+    "auteur": "NON",
+    "edition": "Kana",
+    "genre": "seinen",
+    "nbTomes": 3,
+    "termine": true,
+    "description": "Dans une petite ville enneigée, le corps démembré d'une lycéenne est retrouvé près d'un lac. Mizuki Aikawa, une camarade de classe, avoue rapidement le meurtre. Mais au fil de ses déclarations, ses avocats commencent à douter : que s'est-il réellement passé ? Entre traumatismes, mensonges et mémoire fragmentée, Adabana explore les zones d’ombre de l’âme humaine.",
+    "tomes": [
+      {
+        "id": "adabana-t1",
+        "numero": 1,
+        "titre": "Tome 1",
+        "image": "https://m.media-amazon.com/images/I/71v0p0xZ8RL.jpg",
+        "date": "2022-04-22",
+        "synopsis": "Le meurtre de Mako Igarashi secoue la ville. Mizuki avoue, mais ses propos sont confus. Les avocats commencent à percevoir des incohérences inquiétantes."
+      },
+      {
+        "id": "adabana-t2",
+        "numero": 2,
+        "titre": "Tome 2",
+        "image": "https://m.media-amazon.com/images/I/71xE4yq7uPL.jpg",
+        "date": "2022-07-01",
+        "synopsis": "Les souvenirs de Mizuki se contredisent. Les zones d’ombre autour de la victime et de son entourage se multiplient, révélant un passé plus trouble qu’il n’y paraît."
+      },
+      {
+        "id": "adabana-t3",
+        "numero": 3,
+        "titre": "Tome 3",
+        "image": "https://m.media-amazon.com/images/I/71m4z6d8uPL.jpg",
+        "date": "2022-10-14",
+        "synopsis": "La vérité éclate enfin. Entre culpabilité, manipulation et douleur enfouie, le puzzle se reconstitue et révèle un drame profondément humain."
+      }
+    ]
+  },
+  {
+    "id": "apres-la-pluie",
+    "titre": "Après la pluie",
+    "auteur": "Jun Mayuzuki",
+    "edition": "Kana",
+    "genre": "seinen",
+    "nbTomes": 10,
+    "termine": true,
+    "description": "Akira Tachibana, ancienne athlète prometteuse, a dû abandonner la course après une blessure. Elle travaille désormais dans un family restaurant où elle développe des sentiments sincères pour le gérant, Masami Kondô, un homme réservé de 45 ans. Leur relation délicate explore la reconstruction personnelle, la différence d'âge et la douceur des émotions retenues.",
+    "tomes": [
+      {
+        "id": "apres-la-pluie-t1",
+        "numero": 1,
+        "titre": "Tome 1",
+        "image": "https://m.media-amazon.com/images/I/81pQn4lYJBL.jpg",
+        "date": "2017-04-07",
+        "synopsis": "Akira, blessée et éloignée de l’athlétisme, commence à travailler dans un restaurant et se rapproche du gérant, Kondô."
+      },
+      {
+        "id": "apres-la-pluie-t2",
+        "numero": 2,
+        "titre": "Tome 2",
+        "image": "https://m.media-amazon.com/images/I/81z1p8pVZWL.jpg",
+        "date": "2017-06-30",
+        "synopsis": "Les sentiments d’Akira deviennent plus clairs tandis que Kondô peine à comprendre la nature de leur relation."
+      },
+      {
+        "id": "apres-la-pluie-t3",
+        "numero": 3,
+        "titre": "Tome 3",
+        "image": "https://m.media-amazon.com/images/I/71m4z6d8uPL.jpg",
+        "date": "2017-10-06",
+        "synopsis": "Akira tente de renouer avec son passé sportif tandis que Kondô s’interroge sur sa propre vie."
+      },
+      {
+        "id": "apres-la-pluie-t4",
+        "numero": 4,
+        "titre": "Tome 4",
+        "image": "https://m.media-amazon.com/images/I/71lYp8pVQWL.jpg",
+        "date": "2018-01-05",
+        "synopsis": "Akira et Kondô se rapprochent doucement, chacun affrontant ses regrets et ses hésitations."
+      },
+      {
+        "id": "apres-la-pluie-t5",
+        "numero": 5,
+        "titre": "Tome 5",
+        "image": "https://m.media-amazon.com/images/I/81x0pQp8JmL.jpg",
+        "date": "2018-04-20",
+        "synopsis": "Akira retrouve une ancienne camarade d’athlétisme, ravivant des souvenirs douloureux."
+      },
+      {
+        "id": "apres-la-pluie-t6",
+        "numero": 6,
+        "titre": "Tome 6",
+        "image": "https://m.media-amazon.com/images/I/71xE4yq7uPL.jpg",
+        "date": "2018-07-06",
+        "synopsis": "Kondô réfléchit à ses rêves abandonnés tandis qu’Akira tente de comprendre ce qu’elle veut vraiment."
+      },
+      {
+        "id": "apres-la-pluie-t7",
+        "numero": 7,
+        "titre": "Tome 7",
+        "image": "https://m.media-amazon.com/images/I/71v0p0xZ8RL.jpg",
+        "date": "2018-10-26",
+        "synopsis": "Les deux protagonistes s’ouvrent davantage, révélant leurs vulnérabilités."
+      },
+      {
+        "id": "apres-la-pluie-t8",
+        "numero": 8,
+        "titre": "Tome 8",
+        "image": "https://m.media-amazon.com/images/I/71u7p8pZKHL.jpg",
+        "date": "2019-01-04",
+        "synopsis": "Akira commence à envisager un retour à la course, mais la peur de l’échec la retient."
+      },
+      {
+        "id": "apres-la-pluie-t9",
+        "numero": 9,
+        "titre": "Tome 9",
+        "image": "https://m.media-amazon.com/images/I/81z1p8pVZWL.jpg",
+        "date": "2019-03-01",
+        "synopsis": "Akira et Kondô prennent conscience de ce que leur relation leur a apporté."
+      },
+      {
+        "id": "apres-la-pluie-t10",
+        "numero": 10,
+        "titre": "Tome 10",
+        "image": "https://m.media-amazon.com/images/I/81pQn4lYJBL.jpg",
+        "date": "2019-06-28",
+        "synopsis": "Akira fait enfin un choix pour son avenir, tandis que Kondô retrouve l’envie de créer. Une conclusion douce-amère."
+      }
+    ]
+  },
+  {
+    "id": "evol",
+    "titre": "Evol",
+    "auteur": "Atsushi Kaneko",
+    "edition": "Casterman",
+    "genre": "seinen",
+    "nbTomes": 9,
+    "termine": false,
+    "description": "Trois adolescents brisés par la vie survivent à une tentative de suicide collective et se réveillent dotés de pouvoirs surnaturels. En colère contre une société corrompue dominée par des super-héros officiels, ils deviennent des anti-héros imprévisibles, oscillant entre rébellion, chaos et quête d'identité.",
+    "tomes": [
+      {
+        "id": "evol-t1",
+        "numero": 1,
+        "titre": "Evol Vol. 1",
+        "image": "https://m.media-amazon.com/images/I/81p2l7u8x-L.jpg",
+        "date": "2022-05-04",
+        "synopsis": "Après une tentative de suicide, trois adolescents découvrent qu'ils ont développé des pouvoirs. Leur colère contre le monde les pousse à défier l'ordre établi."
+      },
+      {
+        "id": "evol-t2",
+        "numero": 2,
+        "titre": "Evol Vol. 2",
+        "image": "https://m.media-amazon.com/images/I/81z1p0z6VvL.jpg",
+        "date": "2022-09-14",
+        "synopsis": "Les nouveaux 'Evols' testent leurs capacités et attirent l'attention des super-héros officiels. Le conflit se prépare."
+      },
+      {
+        "id": "evol-t3",
+        "numero": 3,
+        "titre": "Evol Vol. 3",
+        "image": "https://m.media-amazon.com/images/I/81u0X7m4v-L.jpg",
+        "date": "2023-02-15",
+        "synopsis": "Le trio se retrouve au cœur d'un affrontement avec les héros institutionnels. Les origines de leurs pouvoirs commencent à se dévoiler."
+      },
+      {
+        "id": "evol-t4",
+        "numero": 4,
+        "titre": "Evol Vol. 4",
+        "image": "https://m.media-amazon.com/images/I/81k1t7Yt5-L.jpg",
+        "date": "2023-10-18",
+        "synopsis": "La ville sombre dans le chaos alors que les Evols affrontent leurs propres démons. Les frontières entre héros et criminels s'effacent."
+      },
+      {
+        "id": "evol-t5",
+        "numero": 5,
+        "titre": "Evol Vol. 5",
+        "image": "https://m.media-amazon.com/images/I/81Vqk3p7x-L.jpg",
+        "date": "2024-03-20",
+        "synopsis": "Les tensions montent entre les Evols et les autorités. De nouveaux acteurs émergent, révélant l’ampleur de la corruption derrière les super-héros officiels."
+      },
+      {
+        "id": "evol-t6",
+        "numero": 6,
+        "titre": "Evol Vol. 6",
+        "image": "https://m.media-amazon.com/images/I/81Q2t8m4s-L.jpg",
+        "date": "2024-07-10",
+        "synopsis": "Le trio se fracture sous la pression. Chacun doit affronter son passé tandis qu’un ennemi inattendu manipule les événements dans l’ombre."
+      },
+      {
+        "id": "evol-t7",
+        "numero": 7,
+        "titre": "Evol Vol. 7",
+        "image": "https://m.media-amazon.com/images/I/81n3t4k9s-L.jpg",
+        "date": "2024-11-06",
+        "synopsis": "Les Evols se retrouvent face à une vérité qui remet en question leur existence même. Les héros officiels lancent une offensive totale."
+      },
+      {
+        "id": "evol-t8",
+        "numero": 8,
+        "titre": "Evol Vol. 8",
+        "image": "https://m.media-amazon.com/images/I/81b2t9p4s-L.jpg",
+        "date": "2025-03-12",
+        "synopsis": "La guerre entre les deux camps atteint un point de non-retour. Les Evols doivent choisir entre vengeance et survie."
+      },
+      {
+        "id": "evol-t9",
+        "numero": 9,
+        "titre": "Evol Vol. 9",
+        "image": "https://m.media-amazon.com/images/I/81c4t7m8s-L.jpg",
+        "date": "2025-09-18",
+        "synopsis": "Le conflit arrive à son apogée. Les Evols affrontent leurs adversaires les plus puissants et doivent décider du monde qu’ils veulent laisser derrière eux."
+      }
+    ]
+  },
+  {
+    "id": "carnage-junji-ito",
+    "titre": "Carnage",
+    "auteur": "Junji Ito",
+    "edition": "Mangetsu",
+    "genre": "josei",
+    "nbTomes": 1,
+    "termine": true,
+    "description": "Yuuma, un lycéen obsédé par les excuses, et sa sœur Chizumi, véritable incarnation du mal, provoquent des catastrophes partout où ils passent. Entre manipulations psychologiques, phénomènes surnaturels et morts atroces, leur présence transforme chaque rencontre en cauchemar. Junji Ito signe un récit dérangeant où l’horreur naît autant du surnaturel que de la folie humaine.",
+    "tomes": [
+      {
+        "id": "carnage-junji-ito-t1",
+        "numero": 1,
+        "titre": "Carnage",
+        "image": "https://m.media-amazon.com/images/I/81xJtqk1YJL.jpg",
+        "date": "2022-10-05",
+        "synopsis": "Yuuma multiplie les excuses de manière compulsive, mais chaque rencontre avec lui semble attirer des tragédies. Sa sœur Chizumi, fascinée par le chaos, amplifie les phénomènes surnaturels qui les entourent. Ensemble, ils plongent leur entourage dans une spirale d’horreur."
+      }
+    ]
+  },
+  {
+    "id": "derail-kyoko-aiba",
+    "titre": "Derail",
+    "auteur": "Kyoko Aiba",
+    "edition": "Hana Boy's Love",
+    "genre": "yaoi",
+    "nbTomes": 1,
+    "termine": true,
+    "description": "Une jeune femme voit sa vie basculer lorsqu’un événement traumatisant la pousse à remettre en question ses choix, ses relations et sa propre identité. Kyoko Aiba explore avec finesse les dérives émotionnelles, la culpabilité et la reconstruction personnelle dans un récit intimiste et poignant.",
+    "tomes": [
+      {
+        "id": "derail-kyoko-aiba-t1",
+        "numero": 1,
+        "titre": "Derail",
+        "image": "https://m.media-amazon.com/images/I/81pQ2x5yJtL.jpg",
+        "date": "2023-06-08",
+        "synopsis": "Après un incident qui bouleverse son quotidien, l’héroïne se retrouve confrontée à ses propres contradictions. Entre fuite, regrets et quête de sens, elle tente de retrouver un équilibre dans un monde qui semble lui échapper."
+      }
+    ]
+  },
+  {
+    "id": "gunnm",
+    "titre": "Gunnm",
+    "auteur": "Yukito Kishiro",
+    "edition": "Glénat",
+    "genre": "seinen",
+    "nbTomes": 9,
+    "termine": true,
+    "description": "Dans un monde post-apocalyptique dominé par la cité céleste de Zalem, un cybernéticien découvre les restes d'une jeune cyborg amnésique. Baptisée Gally, elle se révèle dotée de capacités de combat extraordinaires. À travers les combats, les rencontres et les révélations, elle cherche à comprendre son passé et à trouver un sens à son existence.",
+    "tomes": [
+      {
+        "id": "gunnm-t1",
+        "numero": 1,
+        "titre": "Rusty Angel",
+        "image": "https://m.media-amazon.com/images/I/81o8p8p1x-L.jpg",
+        "date": "1995-01-01",
+        "synopsis": "Ido découvre Gally dans une décharge et lui offre un nouveau corps. Elle révèle un instinct de combat redoutable."
+      },
+      {
+        "id": "gunnm-t2",
+        "numero": 2,
+        "titre": "Tears Sign",
+        "image": "https://m.media-amazon.com/images/I/81q1YtQ2x-L.jpg",
+        "date": "1995-04-01",
+        "synopsis": "Gally devient chasseuse de primes et affronte Makaku, un criminel monstrueux obsédé par la douleur."
+      },
+      {
+        "id": "gunnm-t3",
+        "numero": 3,
+        "titre": "Killing Angel",
+        "image": "https://m.media-amazon.com/images/I/81u5QkQ3x-L.jpg",
+        "date": "1995-07-01",
+        "synopsis": "Gally découvre le Panzer Kunst, un art martial oublié, et affronte Zapan, consumé par la haine."
+      },
+      {
+        "id": "gunnm-t4",
+        "numero": 4,
+        "titre": "Angel of Death",
+        "image": "https://m.media-amazon.com/images/I/81p4QkQ4x-L.jpg",
+        "date": "1995-10-01",
+        "synopsis": "Gally rejoint le Motorball et devient une star de ce sport ultraviolent, affrontant des adversaires surhumains."
+      },
+      {
+        "id": "gunnm-t5",
+        "numero": 5,
+        "titre": "Lost Sheep",
+        "image": "https://m.media-amazon.com/images/I/81n3QkQ5x-L.jpg",
+        "date": "1996-01-01",
+        "synopsis": "Gally quitte le Motorball et tente de retrouver un sens à sa vie, tandis que de nouvelles menaces émergent."
+      },
+      {
+        "id": "gunnm-t6",
+        "numero": 6,
+        "titre": "Rainmaker",
+        "image": "https://m.media-amazon.com/images/I/81m2QkQ6x-L.jpg",
+        "date": "1996-04-01",
+        "synopsis": "Gally se retrouve impliquée dans un conflit entre rebelles et forces armées, découvrant les manipulations de Zalem."
+      },
+      {
+        "id": "gunnm-t7",
+        "numero": 7,
+        "titre": "War Chronicle",
+        "image": "https://m.media-amazon.com/images/I/81l1QkQ7x-L.jpg",
+        "date": "1996-07-01",
+        "synopsis": "Gally affronte de nouveaux ennemis dans une guerre qui dépasse tout ce qu’elle imaginait."
+      },
+      {
+        "id": "gunnm-t8",
+        "numero": 8,
+        "titre": "Sonic Finger",
+        "image": "https://m.media-amazon.com/images/I/81k0QkQ8x-L.jpg",
+        "date": "1996-10-01",
+        "synopsis": "Les secrets de Zalem se dévoilent tandis que Gally se rapproche de la vérité sur son passé."
+      },
+      {
+        "id": "gunnm-t9",
+        "numero": 9,
+        "titre": "Angel's Ascension",
+        "image": "https://m.media-amazon.com/images/I/81j9QkQ9x-L.jpg",
+        "date": "1996-12-01",
+        "synopsis": "Gally affronte son destin dans un final explosif où se mêlent révélations, sacrifices et renaissance."
+      }
+    ]
+  },
+  {
+    "id": "jalouses",
+    "titre": "Jalouses",
+    "auteur": "Battan",
+    "edition": "Akata",
+    "genre": "josei",
+    "nbTomes": 5,
+    "termine": false,
+    "description": "Une série qui explore les relations humaines à travers le prisme de la jalousie : amoureuse, amicale, familiale ou sociale. Battan dépeint avec sensibilité des personnages en proie à leurs insécurités, leurs contradictions et leurs désirs, dans un récit doux-amer et profondément humain.",
+    "tomes": [
+      {
+        "id": "jalouses-t1",
+        "numero": 1,
+        "titre": "Tome 1",
+        "image": "https://m.media-amazon.com/images/I/81Uu1lZtS-L.jpg",
+        "date": "2023-02-09",
+        "synopsis": "Une jeune femme voit son quotidien bouleversé lorsqu'une nouvelle venue attire l'attention de ceux qu'elle aime. Les premières fissures apparaissent dans ses relations."
+      },
+      {
+        "id": "jalouses-t2",
+        "numero": 2,
+        "titre": "Tome 2",
+        "image": "https://m.media-amazon.com/images/I/81k3p1ZtS-L.jpg",
+        "date": "2023-07-13",
+        "synopsis": "Les tensions s'accentuent alors que les personnages tentent de dissimuler leurs frustrations. Les non-dits s'accumulent et les rivalités se renforcent."
+      },
+      {
+        "id": "jalouses-t3",
+        "numero": 3,
+        "titre": "Tome 3",
+        "image": "https://m.media-amazon.com/images/I/81p4q2XtS-L.jpg",
+        "date": "2024-01-18",
+        "synopsis": "Les masques tombent et les émotions éclatent au grand jour. Chacun doit faire face aux conséquences de ses propres insécurités."
+      },
+      {
+        "id": "jalouses-t4",
+        "numero": 4,
+        "titre": "Tome 4",
+        "image": "https://m.media-amazon.com/images/I/81m2r3WtS-L.jpg",
+        "date": "2024-09-12",
+        "synopsis": "Les relations se recomposent tandis que de nouvelles jalousies émergent. Les personnages cherchent un équilibre fragile entre désir et culpabilité."
+      },
+      {
+        "id": "jalouses-t5",
+        "numero": 5,
+        "titre": "Tome 5",
+        "image": "https://m.media-amazon.com/images/I/81n4s4XtS-L.jpg",
+        "date": "2025-03-06",
+        "synopsis": "Les trajectoires se croisent et se heurtent, révélant des blessures profondes. La série atteint un tournant où chacun doit décider de ce qu'il veut vraiment."
+      }
+    ]
+  }
+]
