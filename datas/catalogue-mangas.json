@@ -1,7 +1,8 @@
 {
   "mangas": [
     {
-      "id": "spy-x-family",
+      "id": 1,
+      "mangaId": "spy-x-family",
       "titre": "Spy x Family",
       "auteur": "Tatsuya Endo",
       "edition": "Kurokawa",
@@ -117,7 +118,8 @@
       ]
     },
     {
-      "id": "one-piece",
+      "id": 2,
+      "mangaId": "one-piece",
       "titre": "One Piece",
       "auteur": "Eiichiro Oda",
       "edition": "Glénat",
@@ -970,7 +972,8 @@
     },
 
     {
-      "id": "dragon-ball",
+      "id": 3,
+      "mangaId": "dragon-ball",
       "titre": "Dragon Ball",
       "auteur": "Akira Toriyama",
       "edition": "Glénat",
@@ -1318,7 +1321,8 @@
       ]
     },
     {
-      "id": "my-hero-academia",
+      "id": 4,
+      "mangaId": "my-hero-academia",
       "titre": "My Hero Academia",
       "auteur": "Kohei Horikoshi",
       "edition": "Ki-oon",
@@ -1666,7 +1670,8 @@
       ]
     },
     {
-      "id": "jujutsu-kaisen",
+      "id": 5,
+      "mangaId": "jujutsu-kaisen",
       "titre": "Jujutsu Kaisen",
       "auteur": "Gege Akutami",
       "edition": "Ki-oon",
@@ -1878,7 +1883,8 @@
       ]
     },
     {
-      "id": "blue-flag",
+      "id": 6,
+      "mangaId": "blue-flag",
       "titre": "Blue Flag",
       "auteur": "Kaito",
       "edition": "Kurokawa",
@@ -1954,7 +1960,8 @@
       ]
     },
     {
-      "id": "drcl-midnight-children",
+      "id": 7,
+      "mangaId": "drcl-midnight-children",
       "titre": "#DRCL midnight children",
       "auteur": "Shinichi Sakamoto",
       "edition": "Ki-oon",
@@ -1998,7 +2005,8 @@
       ]
     },
     {
-      "id": "a-silent-voice",
+      "id": 8,
+      "mangaId": "a-silent-voice",
       "titre": "A Silent Voice",
       "auteur": "Yoshitoki Oima",
       "edition": "Ki-oon",
@@ -2066,7 +2074,8 @@
       ]
     },
     {
-      "id": "ajin",
+      "id": 9,
+      "mangaId": "ajin",
       "titre": "Ajin",
       "auteur": "Gamon Sakurai",
       "edition": "Glénat",
@@ -2214,7 +2223,8 @@
       ]
     },
     {
-      "id": "anedoki",
+      "id": 10,
+      "mangaId": "anedoki",
       "titre": "Anedoki",
       "auteur": "Kouji Seo",
       "edition": "Kana",
@@ -2250,7 +2260,8 @@
       ]
     },
     {
-      "id": "bl-metamorphose",
+      "id": 11,
+      "mangaId": "bl-metamorphose",
       "titre": "BL Metamorphose",
       "auteur": "Kaori Tsurutani",
       "edition": "Kana",
@@ -2302,7 +2313,8 @@
       ]
     },
     {
-      "id": "blue-period",
+      "id": 12,
+      "mangaId": "blue-period",
       "titre": "Blue Period",
       "auteur": "Tsubasa Yamaguchi",
       "edition": "Pika",
@@ -2451,7 +2463,8 @@
       ]
     },
     {
-      "id": "bonne-nuit-punpun",
+      "id": 13,
+      "mangaId": "bonne-nuit-punpun",
       "titre": "Bonne nuit Punpun",
       "auteur": "Inio Asano",
       "edition": "Kana",
@@ -2567,7 +2580,8 @@
       ]
     },
     {
-      "id": "boys-abyss",
+      "id": 14,
+      "mangaId": "boys-abyss",
       "titre": "Boy's Abyss",
       "auteur": "Ryo Minenami",
       "edition": "Kana",
@@ -2691,7 +2705,8 @@
       ]
     },
     {
-      "id": "celui-qui-hantait-les-tenebres",
+      "id": 15,
+      "mangaId": "celui-qui-hantait-les-tenebres",
       "titre": "Celui qui hantait les ténèbres",
       "auteur": "Gô Tanabe",
       "edition": "Ki-oon",
@@ -2711,7 +2726,8 @@
       ]
     },
     {
-      "id": "children",
+      "id": 16,
+      "mangaId": "children",
       "titre": "Children",
       "auteur": "Miu Miura",
       "edition": "Akata",
@@ -2739,12 +2755,13 @@
       ]
     },
     {
-      "id": "dandadan",
+      "id": 17,
+      "mangaId": "dandadan",
       "titre": "Dandadan",
       "auteur": "Yukinobu Tatsu",
       "edition": "Crunchyroll (Kazé)",
       "genre": "shonen",
-      "nbTomes": 13,
+      "nbTomes": 19,
       "termine": false,
       "description": "Dandadan suit Momo Ayase et Ken Takakura, deux lycéens que tout oppose : elle croit aux fantômes mais pas aux extraterrestres, lui croit aux extraterrestres mais pas aux fantômes. Après une confrontation avec les deux phénomènes, ils se retrouvent mêlés à une série d'événements surnaturels explosifs mêlant humour, action et romance.",
       "tomes": [
@@ -2903,7 +2920,8 @@
       ]
     },
     {
-      "id": "death-note",
+      "id": 18,
+      "mangaId": "death-note",
       "titre": "Death Note",
       "auteur": "Tsugumi Ohba & Takeshi Obata",
       "edition": "Kana",
@@ -3011,7 +3029,8 @@
       ]
     },
     {
-      "id": "demain-les-oiseaux",
+      "id": 19,
+      "mangaId": "demain-les-oiseaux",
       "titre": "Demain les Oiseaux",
       "auteur": "Osamu Tezuka",
       "edition": "Delcourt/Tonkam",
@@ -3031,7 +3050,8 @@
       ]
     },
     {
-      "id": "elle-et-son-chat",
+      "id": 20,
+      "mangaId": "elle-et-son-chat",
       "titre": "Elle et son chat",
       "auteur": "Makoto Shinkai & Tsubasa Yamaguchi",
       "edition": "Pika",
@@ -3051,7 +3071,8 @@
       ]
     },
     {
-      "id": "elle-s-appelait-tomoji",
+      "id": 21,
+      "mangaId": "elle-s-appelait-tomoji",
       "titre": "Elle s’appelait Tomoji",
       "auteur": "Jirô Taniguchi & Miho Maruo",
       "edition": "Rue de Sèvres",
@@ -3071,7 +3092,8 @@
       ]
     },
     {
-      "id": "en-proie-au-silence",
+      "id": 22,
+      "mangaId": "en-proie-au-silence",
       "titre": "En proie au silence",
       "auteur": "Akane Torikai",
       "edition": "Akata",
@@ -3147,7 +3169,8 @@
       ]
     },
     {
-      "id": "amour-placebo",
+      "id": 23,
+      "mangaId": "amour-placebo",
       "titre": "Amour Placebo",
       "auteur": "Akane Torikai",
       "edition": "Akata",
@@ -3175,7 +3198,8 @@
       ]
     },
     {
-      "id": "10th-a-couper-le-souffle",
+      "id": 24,
+      "mangaId": "10th-a-couper-le-souffle",
       "titre": "10th - À couper le souffle",
       "auteur": "Yûko Inari",
       "edition": "Kana",
@@ -3211,7 +3235,8 @@
       ]
     },
     {
-      "id": "adabana",
+      "id": 25,
+      "mangaId": "adabana",
       "titre": "Adabana",
       "auteur": "NON",
       "edition": "Kana",
@@ -3247,7 +3272,8 @@
       ]
     },
     {
-      "id": "apres-la-pluie",
+      "id": 26,
+      "mangaId": "apres-la-pluie",
       "titre": "Après la pluie",
       "auteur": "Jun Mayuzuki",
       "edition": "Kana",
@@ -3339,7 +3365,8 @@
       ]
     },
     {
-      "id": "evol",
+      "id": 27,
+      "mangaId": "evol",
       "titre": "Evol",
       "auteur": "Atsushi Kaneko",
       "edition": "Casterman",
@@ -3423,7 +3450,8 @@
       ]
     },
     {
-      "id": "carnage-junji-ito",
+      "id": 28,
+      "mangaId": "carnage-junji-ito",
       "titre": "Carnage",
       "auteur": "Junji Ito",
       "edition": "Mangetsu",
@@ -3443,7 +3471,8 @@
       ]
     },
     {
-      "id": "derail-kyoko-aiba",
+      "id": 29,
+      "mangaId": "derail-kyoko-aiba",
       "titre": "Derail",
       "auteur": "Kyoko Aiba",
       "edition": "Hana Boy's Love",
@@ -3463,7 +3492,8 @@
       ]
     },
     {
-      "id": "gunnm",
+      "id": 30,
+      "mangaId": "gunnm",
       "titre": "Gunnm",
       "auteur": "Yukito Kishiro",
       "edition": "Glénat",
@@ -3547,7 +3577,8 @@
       ]
     },
     {
-      "id": "jalouses",
+      "id": 31,
+      "mangaId": "jalouses",
       "titre": "Jalouses",
       "auteur": "Battan",
       "edition": "Akata",

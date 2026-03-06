@@ -17,20 +17,22 @@ export function getJsonCatalogue(req, res) {
     json.mangas.forEach((manga) => {
       manga.tomes.forEach((tome) => {
         allTomes.push({
-          id: tome.id,
+          idJson: tome.id,
           numero: tome.numero,
-          sousTitre: tome.titre,
+          titre: tome.titre,
           synopsis: tome.synopsis,
           image: tome.image,
           dateSortie: tome.date,
           manga: {
-            id: manga.id,
+            idJson: manga.id,
+            slug: manga.mangaId,
             titre: manga.titre,
             auteur: manga.auteur,
             edition: manga.edition,
             genre: manga.genre,
             nbTomes: manga.nbTomes,
             termine: manga.termine,
+            description: manga.description,
           },
         });
       });
@@ -62,20 +64,22 @@ export function getTomeById(req, res) {
       manga.tomes.forEach((tome) => {
         if (tome.id === tomeId) {
           foundTome = {
-            id: tome.id,
+            idJson: tome.id,
             numero: tome.numero,
-            sousTitre: tome.titre,
+            titre: tome.titre,
             synopsis: tome.synopsis,
             image: tome.image,
             dateSortie: tome.date,
             manga: {
-              id: manga.id,
+              idJson: manga.id,
+              slug: manga.mangaId,
               titre: manga.titre,
               auteur: manga.auteur,
               edition: manga.edition,
               genre: manga.genre,
               nbTomes: manga.nbTomes,
               termine: manga.termine,
+              description: manga.description,
             },
           };
         }
@@ -100,7 +104,7 @@ export function getTomesByManga(req, res) {
 
     const json = JSON.parse(data);
     const manga = json.mangas.find(
-      (m) => m.id.toLowerCase() === mangaID.toLowerCase()
+      (m) => m.mangaId.toLowerCase() === mangaID.toLowerCase(),
     );
 
     if (!manga) {
@@ -124,7 +128,7 @@ export function getTomeByMangaAndNumber(req, res) {
     const json = JSON.parse(data);
     // compare lowercase to accept titles or ids with different casing
     const mangaData = json.mangas.find(
-      (m) => m.id.toLowerCase() === manga.toLowerCase()
+      (m) => m.mangaId.toLowerCase() === manga.toLowerCase(),
     );
 
     if (!mangaData) {
@@ -138,20 +142,22 @@ export function getTomeByMangaAndNumber(req, res) {
     }
 
     return res.json({
-      id: tome.id,
+      idJson: tome.id,
       numero: tome.numero,
-      sousTitre: tome.titre,
+      titre: tome.titre,
       synopsis: tome.synopsis,
       image: tome.image,
       dateSortie: tome.date,
       manga: {
-        id: mangaData.id,
+        idJson: mangaData.id,
+        slug: mangaData.mangaId,
         titre: mangaData.titre,
         auteur: mangaData.auteur,
         edition: mangaData.edition,
         genre: mangaData.genre,
         nbTomes: mangaData.nbTomes,
         termine: mangaData.termine,
+        description: mangaData.description,
       },
     });
   });

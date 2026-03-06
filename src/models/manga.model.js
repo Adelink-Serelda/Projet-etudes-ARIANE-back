@@ -7,6 +7,8 @@ export function initMangaModel(sequelize) {
   Manga.init(
     {
       id: { type: DataTypes.INTEGER, autoIncrement: true, primaryKey: true },
+      idJson: { type: DataTypes.INTEGER },
+      slug: { type: DataTypes.STRING },
       titre: { type: DataTypes.STRING, allowNull: false },
       auteur: { type: DataTypes.STRING },
       edition: { type: DataTypes.STRING },
