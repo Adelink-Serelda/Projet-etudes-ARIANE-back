@@ -1,4 +1,5 @@
 import { UserManga, Manga, Tome } from "../models/index.js";
+import { isInCollection, findMangaAndTome } from "../utils/collection.utils.js";
 import fs from "fs";
 import path from "path";
 
@@ -7,10 +8,11 @@ export async function addToCollection(req, res) {
     const { mangaId, tomeNumero } = req.body;
     const userId = req.user.id;
 
-    // Vérifier si le manga existe en base
-    let manga = await Manga.findOne({ where: { idJson: mangaId } });
-    console.log("mangaId : " + mangaId);
-    console.log(manga);
+    if (await isInCollection(userId, mangaId, tomeNumero)) {
+      return res.status(400).json({ message: "Déjà dans la collection" });
+    }
+
+    let { manga, tome } = await findMangaAndTome(mangaId, tomeNumero);
 
     // S'il n'existe pas : le créer avant de l'ajouter à la collection
     if (!manga) {
@@ -56,27 +58,12 @@ export async function addToCollection(req, res) {
       }
     }
 
-    // Récupérer tome à ajouter à la collection
-    const tome = await Tome.findOne({
+    tome = await Tome.findOne({
       where: { mangaID: manga.id, numero: tomeNumero },
     });
 
     if (!tome) {
       return res.status(404).json({ message: "Tome introuvable" });
-    }
-
-    // Vérifier si il existe déjà dans la collection
-    const exists = await UserManga.findOne({
-      where: {
-        userId,
-        mangaId: manga.id,
-        tomeId: tome.id,
-        statusCollection: "collection",
-      },
-    });
-
-    if (exists) {
-      return res.status(400).json({ message: "Déjà dans la collection" });
     }
 
     // Ajouter le manga à la collection
@@ -106,6 +93,56 @@ export async function getUserCollection(req, res) {
       ],
     });
     return res.send(collection);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+}
+
+export async function deleteFromCollection(req, res) {
+  try {
+    const userId = req.user.id;
+    const { mangaId, tomeNumero } = req.body;
+
+    const { manga, tome } = await findMangaAndTome(mangaId, tomeNumero);
+
+    if (!manga || !tome) {
+      return res
+        .status(404)
+        .json({ message: "Manga ou tome introuvable en base" });
+    }
+
+    // Chercher l'entrée UserManga pour cet utilisateur
+    const entry = await UserManga.findOne({
+      where: {
+        userId,
+        mangaId: manga.id,
+        tomeId: tome.id,
+        statusCollection: "collection",
+      },
+    });
+
+    if (!entry) {
+      return res
+        .status(404)
+        .json({ message: "Ce tome n'est pas dans ta collection" });
+    }
+
+    await entry.destroy();
+
+    return res.json({ message: "Tome supprimé de ta collection !" });
+  } catch (err) {
+    res.status(500).json({ message: "Erreur serveur" });
+  }
+}
+
+export async function checkInCollection(req, res) {
+  try {
+    const userId = req.user.id;
+    const { mangaId, tomeNumero } = req.query;
+
+    const exists = await isInCollection(userId, mangaId, tomeNumero);
+
+    return res.json({ exists });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

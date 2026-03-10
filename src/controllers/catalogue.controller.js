@@ -150,6 +150,7 @@ export function getTomeByMangaAndNumber(req, res) {
       dateSortie: tome.date,
       manga: {
         idJson: mangaData.id,
+        mangaId: mangaData.mangaId,
         slug: mangaData.mangaId,
         titre: mangaData.titre,
         auteur: mangaData.auteur,
