@@ -4,6 +4,7 @@ import mangaRoutes from "./routes/manga.routes.js";
 import tomeRoutes from "./routes/tome.routes.js";
 import catalogueRoutes from "./routes/catalogue.routes.js";
 import collectionRoutes from "./routes/collection.routes.js";
+import filRoutes from "./routes/fil.routes.js";
 import { runSeed } from "./fixtures/seed.js";
 import "dotenv/config";
 import cors from "cors";
@@ -32,6 +33,7 @@ export async function initApp() {
   app.use("/api/tomes", tomeRoutes);
   app.use("/api/catalogue", catalogueRoutes);
   app.use("/api/collection", collectionRoutes);
+  app.use("/api/fil", filRoutes);
 
   // Route racine
   app.get("/", (req, res) => {

@@ -1328,7 +1328,7 @@
       "edition": "Ki-oon",
       "genre": "shonen",
       "nbTomes": 42,
-      "termine": false,
+      "termine": true,
       "description": "Dans un monde où 80 % de la population possède un Alter, Izuku Midoriya rêve de devenir un héros malgré le fait qu'il soit né sans pouvoir. Sa rencontre avec All Might va changer son destin.",
       "tomes": [
         {

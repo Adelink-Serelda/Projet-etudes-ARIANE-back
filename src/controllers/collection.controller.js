@@ -1,7 +1,13 @@
 import { UserManga, Manga, Tome } from "../models/index.js";
 import { isInCollection, findMangaAndTome } from "../utils/collection.utils.js";
+import {
+  getUserCollectionByMangaSQL,
+  countUserSeriesCollectionSQL,
+  countUserTomesCollectionSQL,
+} from "../repository/collection.repository.js";
 import fs from "fs";
 import path from "path";
+import { col } from "sequelize";
 
 export async function addToCollection(req, res) {
   try {
@@ -72,6 +78,7 @@ export async function addToCollection(req, res) {
       mangaId: manga.id,
       tomeId: tome.id,
       statusCollection: "collection",
+      statusFil: "PAL",
     });
 
     return res.json({ message: "Ajouté à la collection", entry });
@@ -85,14 +92,52 @@ export async function getUserCollection(req, res) {
     const userId = req.user.id;
 
     const collection = await UserManga.findAll({
-      where: { userId, status: "collection" },
+      where: { userId, statusCollection: "collection" },
       include: [
         {
           model: Manga,
         },
+        {
+          model: Tome,
+        },
       ],
     });
     return res.send(collection);
+  } catch (err) {
+    res.status(500).json({ error: err.message });
+  }
+}
+
+export async function getUserCollectionByManga(req, res) {
+  try {
+    const userId = req.user.id;
+    const collection = await getUserCollectionByMangaSQL(userId);
+    const [{ totalTomes }] = await countUserTomesCollectionSQL(userId);
+    const [{ totalSeries }] = await countUserSeriesCollectionSQL(userId);
+
+    const grouped = {};
+
+    for (const tome of collection) {
+      if (!grouped[tome.mangaId]) {
+        grouped[tome.mangaId] = {
+          mangaId: tome.mangaId,
+          titre: tome.mangaTitre,
+          termine: tome.mangaTermine,
+          nbTomesTotal: tome.nbTomesTotal,
+          tomes: [],
+        };
+      }
+      grouped[tome.mangaId].tomes.push({
+        id: tome.tomeId,
+        numero: tome.tomeNumero,
+        titre: tome.tomeTitre,
+        image: tome.tomeImage,
+      });
+    }
+
+    const userCollection = Object.values(grouped);
+
+    return res.json({ userCollection, totalSeries, totalTomes });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }
