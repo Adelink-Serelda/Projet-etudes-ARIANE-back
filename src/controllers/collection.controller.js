@@ -122,6 +122,7 @@ export async function getUserCollectionByManga(req, res) {
         grouped[tome.mangaId] = {
           mangaId: tome.mangaId,
           titre: tome.mangaTitre,
+          slug: tome.mangaSlug,
           termine: tome.mangaTermine,
           nbTomesTotal: tome.nbTomesTotal,
           tomes: [],

@@ -8,14 +8,34 @@ import {
 export async function getUserPALByMangas(req, res) {
   try {
     const userId = req.user.id;
-    console.log("userId : ", userId);
     const pal = await getUserPALByMangaSQL(userId);
-    console.log("pal : ", pal);
     const [{ totalTomes }] = await countUserTomesPALSQL(userId);
-    console.log("compte tomes PAL : ", totalTomes);
     const [{ totalSeries }] = await countUserSeriesPALSQL(userId);
-    console.log("compte series PAL : ", totalSeries);
-    return res.json({ pal, totalSeries, totalTomes });
+
+    const grouped = {};
+
+    for (const tome of pal) {
+      if (!grouped[tome.mangaId]) {
+        grouped[tome.mangaId] = {
+          mangaId: tome.mangaId,
+          titre: tome.mangaTitre,
+          slug: tome.mangaSlug,
+          termine: tome.mangaTermine,
+          nbTomesTotal: tome.nbTomesTotal,
+          tomes: [],
+        };
+      }
+      grouped[tome.mangaId].tomes.push({
+        id: tome.tomeId,
+        numero: tome.tomeNumero,
+        titre: tome.tomeTitre,
+        image: tome.tomeImage,
+      });
+    }
+
+    const userPal = Object.values(grouped);
+
+    return res.json({ userPal, totalSeries, totalTomes });
   } catch (err) {
     res.status(500).json({ error: err.message });
   }

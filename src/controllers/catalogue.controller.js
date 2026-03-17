@@ -163,3 +163,28 @@ export function getTomeByMangaAndNumber(req, res) {
     });
   });
 }
+
+export function getSuggestionBaseList() {
+  const filePath = path.join(process.cwd(), "datas", "catalogue-mangas.json");
+  const data = fs.readFileSync(filePath, "utf-8");
+  const json = JSON.parse(data);
+
+  const suggestions = json.mangas.map((manga) => {
+    const tomes = Array.isArray(manga.tomes) ? manga.tomes : [];
+    const tome1 = tomes.find((t) => t.numero === 1);
+
+    return {
+      idJson: manga.id,
+      slug: manga.mangaId,
+      titre: manga.titre,
+      auteur: manga.auteur,
+      edition: manga.edition,
+      genre: manga.genre,
+      nbTomes: manga.nbTomes,
+      termine: manga.termine,
+      description: manga.description,
+      cover: tome1?.image || null,
+    };
+  });
+  return suggestions;
+}
