@@ -40,10 +40,10 @@ export function getJsonCatalogue(req, res) {
 
     allTomes.sort((a, b) => new Date(b.dateSortie) - new Date(a.dateSortie));
 
-    const top20 = allTomes.slice(0, 50);
-    console.log("top20: ", top20.length);
-    console.log(top20);
-    res.json(top20);
+    const top50 = allTomes.slice(0, 50);
+    console.log("top50: ", top50.length);
+    console.log(top50);
+    res.json(top50);
   });
 }
 
